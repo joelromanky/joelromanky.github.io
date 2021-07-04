@@ -1,0 +1,98 @@
+baseurl = "https://jky23.github.io"
+title = "Joël Roman Ky"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Joël Roman Ky"
+  info = "AI Engineer"
+  description = "My personal website"
+  keywords = "Blog,engineer,personal"
+  avatarurl = "images/photo.jpeg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  #footercontent = ""
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+  rtl = false
+
+  customCSS = ["css/custom.css"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/jky23/"
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope-square"
+    weight = 2
+    url = "mailto:rom23joel@gmail.com"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/KyJolRoman2"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 4
+  url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky-205a06153/"
+[[params.social]]
+  name = "Kaggle"
+  icon = "fab fa-kaggle"
+  weight = 5
+  url = "https://kaggle.com/jrky23"
+
+# Menu links
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "bio/about"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/projects"
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "blog/blog"
+[[menu.main]]
+  name = "CV"
+  weight = 4
+  url = "files/CV.pdf"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
