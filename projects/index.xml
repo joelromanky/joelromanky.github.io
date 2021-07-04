@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Joël Roman Ky</title>
+    <link>https://jky23.github.io/projects/</link>
+    <description>Recent content in Projects on Joël Roman Ky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jul 2021 14:44:54 +0200</lastBuildDate><atom:link href="https://jky23.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://jky23.github.io/projects/projects/</link>
+      <pubDate>Sun, 04 Jul 2021 14:44:54 +0200</pubDate>
+      
+      <guid>https://jky23.github.io/projects/projects/</guid>
+      <description>To come soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
