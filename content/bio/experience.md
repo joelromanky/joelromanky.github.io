@@ -9,7 +9,7 @@ April 2021 - September 2021
 **Machine Learning Research Intern**  
 *Toulouse, France*
 
-- Research internship in academic collaboration with ANITI, IMT and LAPLACE
+- Research internship in academic collaboration with ANITI (Artificial and Natural Intelligence Toulouse Institute), IMT (Institut de Mathématiques de Toulouse) and LAPLACE (Laboratoire Plasma et Conversion d'Energie)
 - State of the art of the modeling of PEM fuel cells
 - Prototyping of Machine Learning models for Remaining Useful Life estimation
 
@@ -39,7 +39,7 @@ June 2020 - August 2020
 #### IRIT Laboratory
 
 June 2019 - July 2019  
-**Programming Intern**
+**Programming Intern**  
 *Toulouse, France*
 
 - Development of an application using network tools on the supervision of M. Julien Fasson
@@ -48,7 +48,7 @@ June 2019 - July 2019
 
 #### Completude
 
-January 2019 - June 2021
+January 2019 - June 2021  
 **Home Teacher**  
 *Toulouse, France*
 

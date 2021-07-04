@@ -1,7 +1,7 @@
 ---
 title: "Skills"
 date: 2021-06-05T14:42:24+02:00
-draft: true
+draft: false
 ---
 
 ## Coursework

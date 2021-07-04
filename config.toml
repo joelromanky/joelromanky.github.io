@@ -57,11 +57,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fas fa-envelope-square"
     weight = 2
     url = "mailto:rom23joel@gmail.com"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/KyJolRoman2"
+#[[params.social]]
+#  name = "Twitter"
+# icon = "fa fa-twitter fa-2x"
+#  weight = 3
+#  url = "https://twitter.com/KyJolRoman2"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
