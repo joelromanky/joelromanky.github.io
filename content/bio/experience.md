@@ -5,6 +5,8 @@ draft: false
 ---
 #### Vitesco Technologies
 
+<img style="float: right;" src="/images/vitesco.jpg"  width="130">
+
 April 2021 - September 2021  
 **Machine Learning Research Intern**  
 *Toulouse, France*
@@ -14,6 +16,8 @@ April 2021 - September 2021
 - Prototyping of Machine Learning models for Remaining Useful Life estimation
 
 #### SII Group
+
+<img style="float: right;" src="/images/sii_group.png" width="100" >
 
 December 2020 - March 2021  
 **Research project in AI**  
@@ -25,6 +29,8 @@ December 2020 - March 2021
 - Outils: Python, TensorFlow, UnrealEngine, AirSim
 
 #### INSPI
+
+<img style="float: right;" src="/images/inspi.png" width="130">
 
 June 2020 - August 2020  
 **R&D Intern in Deep-Learning**  
@@ -38,6 +44,8 @@ June 2020 - August 2020
 
 #### IRIT Laboratory
 
+<img style="float: right;" src="/images/irit.png" width="170">
+
 June 2019 - July 2019  
 **Programming Intern**  
 *Toulouse, France*
@@ -47,6 +55,8 @@ June 2019 - July 2019
 - Technolgies :  Python, TCP/IP, Socket
 
 #### Completude
+
+<img style="float: right;" src="/images/completude.jpg" width="150">
 
 January 2019 - June 2021  
 **Home Teacher**  

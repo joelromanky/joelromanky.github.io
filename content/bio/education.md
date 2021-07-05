@@ -9,6 +9,8 @@ draft: false
 
 ### **Master of Science, Computer Science**  
 
+<img style="float: right;" src="/images/ut3.jpg"  width="150">
+
 September 2020- September 2021  
 **University Toulouse 3 Paul Sabatier**  
     *Toulouse, France*  
@@ -18,6 +20,8 @@ September 2020- September 2021
 <!--![image_n7 alt >](/images/enseeiht.png)-->
 
 ### **Engineering Diploma, Computer Science and Telecommunications**  
+
+<img style="float: right;" src="/images/enseeiht.png"  width="200">
 
 September 2018- September 2021  
 **Toulouse INP-ENSEEIHT**  
@@ -41,6 +45,8 @@ September 2016- July 2018
 <!--![image_pmk alt >](/images/pmk.jpeg)-->
 
 ### **High School Diploma**  
+
+<img style="float: right;" src="/images/pmk.jpeg"  width="100">
 
 September 2009- June 2016  
 **Prytanee Militaire de Kadiogo**  
