@@ -88,6 +88,10 @@ disqusShortname = "yourdiscussshortname"
   weight = 3
   url  = "blog/blog"
 [[menu.main]]
+  name = "Papers"
+  weight = 4
+  url = "papers/papers"
+[[menu.main]]
   name = "CV"
   weight = 4
   url = "files/CV.pdf"

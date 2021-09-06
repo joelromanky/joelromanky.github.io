@@ -30,3 +30,9 @@ New icons can be found in [Font Awesome](https://fontawesome.com).
 - Switch to the `master` branch
 - Lauch `hugo`
 - Commit
+
+### Commit to dev branch
+
+- Launch `git add -- . ':!public/'`
+- Launch `git commit -m "Commit message"`
+- Launch `git push origin dev`
