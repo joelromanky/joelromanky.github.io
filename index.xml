@@ -6,7 +6,18 @@
     <description>Recent content on Joël Roman Ky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jul 2021 14:44:54 +0200</lastBuildDate><atom:link href="https://jky23.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate><atom:link href="https://jky23.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers</title>
+      <link>https://jky23.github.io/papers/papers/</link>
+      <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
+      
+      <guid>https://jky23.github.io/papers/papers/</guid>
+      <description>Others manuscripts    Machine Learning Research Intership, Vitesco Technologies    April 2021 - September 2021, Toulouse, France
+ Analysis of a fuel cell aging database Supervised by Ludovic LANDRY, Lucian ALECU, Fabrice GAMBOA and Christophe TURPIN Report Slides  Research project in AI, SII Group    December 2020 - March 2021, Toulouse, France
+ DROOPI : Human-UAV Interaction Supervised by Sandy VASLON and Coline MOINET Report Team Report Video Demo Slides  R&amp;amp;D Intern in Deep-Learning, INSPI    June 2020 - August 2020, Toulouse, France</description>
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>https://jky23.github.io/projects/projects/</link>
