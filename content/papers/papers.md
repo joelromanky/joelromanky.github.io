@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## Others manuscripts
+---
 
 - :bookmark_tabs: **Machine Learning Research Intership** at *Vitesco Technologies*  
   - Subject : **Analysis of a fuel cell aging database**

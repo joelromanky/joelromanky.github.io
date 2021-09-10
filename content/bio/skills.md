@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## Coursework :open_book:
+---
 
 <details>
     <summary>Computer Science</summary>
@@ -89,7 +90,9 @@ draft: false
 
 </details>
 
+
 ## Programming languages :computer:
+---
 
 - Python, R
 - Matlab, Julia
@@ -100,6 +103,7 @@ draft: false
 - HTML, CSS
 
 ## Framework & Software :gear:
+---
 
 - TensorFlow/Keras, PyTorch, Caffe
 - Numpy, Matplotlib, Pandas, Seaborn
@@ -110,6 +114,7 @@ draft: false
 - Github, Bitbucket, Subversion (SVN)
 
 ## Languages :ideograph_advantage:
+---
 
 - French (native language)
 - English (professional level [reference](https://drive.google.com/file/d/1XufPQR8Mtqk5T4vrrYjGwiLKKoq0N6Ou/view?usp=sharing))

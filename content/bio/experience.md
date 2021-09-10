@@ -17,6 +17,7 @@ April 2021 - September 2021
 - Prototyping of Machine Learning models for Remaining Useful Life estimation
 
 #### SII Group
+---
 
 <img style="float: right;" src="/images/sii_group.png" width="100" >
 
@@ -30,6 +31,7 @@ December 2020 - March 2021
 - Outils: Python, TensorFlow, UnrealEngine, AirSim
 
 #### INSPI
+---
 
 <img style="float: right;" src="/images/inspi.png" width="130">
 
@@ -44,6 +46,7 @@ June 2020 - August 2020
 - Outils: Python, Computer Vision, Tensorflow, PyTorch, Caffe, AWS SageMaker, Flask
 
 #### IRIT Laboratory
+---
 
 <img style="float: right;" src="/images/irit.png" width="170">
 
@@ -56,6 +59,7 @@ June 2019 - July 2019
 - Technolgies :  Python, TCP/IP, Socket
 
 #### Completude
+---
 
 <img style="float: right;" src="/images/completude.jpg" width="150">
 

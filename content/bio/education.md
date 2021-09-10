@@ -8,7 +8,7 @@ draft: false
 <!--![image_ut3 alt >](/images/ut3.jpg)-->
 
 ### **Master of Science, Computer Science**  
-
+---
 <img style="float: right;" src="/images/ut3.jpg"  width="150">
 
 September 2020- September 2021  
@@ -20,6 +20,7 @@ September 2020- September 2021
 <!--![image_n7 alt >](/images/enseeiht.png)-->
 
 ### **Engineering Diploma, Computer Science and Telecommunications**  
+---
 
 <img style="float: right;" src="/images/enseeiht.png"  width="200">
 
@@ -33,6 +34,9 @@ September 2018- September 2021
 <!--![image alt >](/images/jpg)-->
 
 ### **Preparatory Courses**  
+---
+
+<img style="float: right;" src="/images/cpge.jpeg"  width="100">
 
 September 2016- July 2018  
 **CPGE Mohamed V**  
@@ -45,6 +49,7 @@ September 2016- July 2018
 <!--![image_pmk alt >](/images/pmk.jpeg)-->
 
 ### **High School Diploma**  
+---
 
 <img style="float: right;" src="/images/pmk.jpeg"  width="100">
 
