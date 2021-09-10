@@ -4,7 +4,7 @@ date: 2021-06-05T14:42:24+02:00
 draft: false
 ---
 
-## Coursework
+## Coursework :open_book:
 
 <details>
     <summary>Computer Science</summary>
@@ -89,7 +89,7 @@ draft: false
 
 </details>
 
-## Programming languages
+## Programming languages :computer:
 
 - Python, R
 - Matlab, Julia
@@ -99,7 +99,7 @@ draft: false
 - Ada, Fortran, OCaml
 - HTML, CSS
 
-## Framework & Software
+## Framework & Software :gear:
 
 - TensorFlow/Keras, PyTorch, Caffe
 - Numpy, Matplotlib, Pandas, Seaborn
@@ -109,7 +109,7 @@ draft: false
 - Eclipse, Java EE
 - Github, Bitbucket, Subversion (SVN)
 
-## Languages
+## Languages :ideograph_advantage:
 
 - French (native language)
 - English (professional level [reference](https://drive.google.com/file/d/1XufPQR8Mtqk5T4vrrYjGwiLKKoq0N6Ou/view?usp=sharing))

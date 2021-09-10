@@ -20,8 +20,8 @@ disqusShortname = "yourdiscussshortname"
   avatarurl = "images/photo.jpeg"
   #gravatar = "john.doe@example.com"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
 
   #footercontent = ""
   hideFooter = false
@@ -30,6 +30,7 @@ disqusShortname = "yourdiscussshortname"
   since = 2021
 
   enableTwemoji = true
+  enableEmoji = true
 
   colorScheme = "dark"
   hidecolorschemetoggle = false

@@ -4,6 +4,7 @@ date: 2021-06-05T14:42:46+02:00
 draft: false
 ---
 #### Vitesco Technologies
+---
 
 <img style="float: right;" src="/images/vitesco.jpg"  width="130">
 
