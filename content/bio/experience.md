@@ -3,6 +3,15 @@ title: "Experience"
 date: 2021-06-05T14:42:46+02:00
 draft: false
 ---
+#### Orange Labs
+---
+
+<img style="float: right;" src="/images/orange.png"  width="80">
+
+October 2021 - Now  
+**PhD CIFRE - Research Engineer**  
+*Lannion, France*
+
 #### Vitesco Technologies
 ---
 
@@ -28,7 +37,7 @@ December 2020 - March 2021
 - State of the art on algorithms and frameworks about drones positioning and humans detection.
 - Face detection through a drone and chatbot conception
 - Drone positioning
-- Outils: Python, TensorFlow, UnrealEngine, AirSim
+- **Tools** : Python, TensorFlow, UnrealEngine, AirSim
 
 #### INSPI
 ---
@@ -43,7 +52,7 @@ June 2020 - August 2020
 - Distributed training and deployment of interior image segmentation models in PyTorch through AWS SageMaker
 - Conversion of segmentation Deep-Learning models(PSPNet, Resnet) from the Caffe platform to TensorFlow/Keras
 - Creation of scripts for preprocessing image datasets for training
-- Outils: Python, Computer Vision, Tensorflow, PyTorch, Caffe, AWS SageMaker, Flask
+- **Tools**: Python, Computer Vision, Tensorflow, PyTorch, Caffe, AWS SageMaker, Flask
 
 #### IRIT Laboratory
 ---
@@ -56,7 +65,7 @@ June 2019 - July 2019
 
 - Development of an application using network tools on the supervision of M. Julien Fasson
 - This application would be use as a support for students' projects in Network Programming
-- Technolgies :  Python, TCP/IP, Socket
+- **Tools** :  Python, TCP/IP, Socket
 
 #### Completude
 ---

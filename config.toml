@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Joël Roman Ky"
-  info = "AI Engineer"
+  info = "PhD Candidate & Research Engineer"
   description = "My personal website"
   keywords = "Blog,engineer,personal"
   avatarurl = "images/photo.jpeg"
@@ -54,7 +54,7 @@ disqusShortname = "yourdiscussshortname"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/jky23/"
+  url = "https://github.com/joelromanky/"
 [[params.social]]
     name = "Email"
     icon = "fas fa-envelope-square"
@@ -69,7 +69,7 @@ disqusShortname = "yourdiscussshortname"
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 4
-  url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky-205a06153/"
+  url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky/"
 [[params.social]]
   name = "Kaggle"
   icon = "fab fa-kaggle"
