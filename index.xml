@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joël Roman Ky</title>
-    <link>https://jky23.github.io/</link>
+    <link>https://joelromanky.github.io/</link>
     <description>Recent content on Joël Roman Ky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate><atom:link href="https://jky23.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate><atom:link href="https://joelromanky.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
-      <link>https://jky23.github.io/papers/papers/</link>
+      <link>https://joelromanky.github.io/papers/papers/</link>
       <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
       
-      <guid>https://jky23.github.io/papers/papers/</guid>
+      <guid>https://joelromanky.github.io/papers/papers/</guid>
       <description>Others manuscripts       📑 Machine Learning Research Intership at Vitesco Technologies
  Subject : Analysis of a fuel cell aging database Supervised by Ludovic LANDRY, Lucian ALECU, Fabrice GAMBOA and Christophe TURPIN Report Slides    📑 Research project in AI at SII Group
  Subject : DROOPI : Human-UAV Interaction Supervised by Sandy VASLON and Coline MOINET Report Team Report Video Demo Slides    📑 R&amp;amp;D Intern in Deep-Learning at INSPI</description>
@@ -20,29 +20,29 @@
     
     <item>
       <title>Projects</title>
-      <link>https://jky23.github.io/projects/projects/</link>
+      <link>https://joelromanky.github.io/projects/projects/</link>
       <pubDate>Sun, 04 Jul 2021 14:44:54 +0200</pubDate>
       
-      <guid>https://jky23.github.io/projects/projects/</guid>
+      <guid>https://joelromanky.github.io/projects/projects/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://jky23.github.io/blog/blog/</link>
+      <link>https://joelromanky.github.io/blog/blog/</link>
       <pubDate>Sun, 04 Jul 2021 14:44:37 +0200</pubDate>
       
-      <guid>https://jky23.github.io/blog/blog/</guid>
+      <guid>https://joelromanky.github.io/blog/blog/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://jky23.github.io/bio/experience/</link>
+      <link>https://joelromanky.github.io/bio/experience/</link>
       <pubDate>Sat, 05 Jun 2021 14:42:46 +0200</pubDate>
       
-      <guid>https://jky23.github.io/bio/experience/</guid>
-      <description>Orange Labs     October 2021 - Now
+      <guid>https://joelromanky.github.io/bio/experience/</guid>
+      <description>Orange Innovation     November 2021 - Now
 PhD CIFRE - Research Engineer
 Lannion, France
 Vitesco Technologies     April 2021 - September 2021
@@ -53,35 +53,35 @@ Toulouse, France
     
     <item>
       <title>Education</title>
-      <link>https://jky23.github.io/bio/education/</link>
+      <link>https://joelromanky.github.io/bio/education/</link>
       <pubDate>Sat, 05 Jun 2021 14:42:38 +0200</pubDate>
       
-      <guid>https://jky23.github.io/bio/education/</guid>
-      <description>](/images/ut3.jpg)-- Doctor of Philosophy, Computer Science     November 2021 - Now
+      <guid>https://joelromanky.github.io/bio/education/</guid>
+      <description>](/images/ut3.jpg)-- Doctor of Philosophy, Computer Science     October 2021 - Now
 University of Lorraine
 Nancy, France
- Title : Automatic characterization, classification and troubleshooting of cloud gaming applications Doctoral School : IAEM - Lorraine Laboratory : LORIA Research Team : RESIST Supervisors :  Raouf BOUTABA, Professor, University of Waterloo Abdelkader LAHMADI, Associate Professor, University of Lorraine Bertrand MATHIEU, Senior Researcher, Orange Labs    Master of Science, Computer Science     September 2020 - September 2021</description>
+ Title : Automatic characterization, classification and troubleshooting of cloud gaming applications Doctoral School : IAEM - Lorraine Laboratory : LORIA Research Team : RESIST Supervisors :  Raouf BOUTABA, Professor, University of Waterloo Abdelkader LAHMADI, Associate Professor, University of Lorraine Bertrand MATHIEU, Senior Researcher, Orange Innovation    Master of Science, Computer Science     September 2020 - September 2021</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://jky23.github.io/bio/skills/</link>
+      <link>https://joelromanky.github.io/bio/skills/</link>
       <pubDate>Sat, 05 Jun 2021 14:42:24 +0200</pubDate>
       
-      <guid>https://jky23.github.io/bio/skills/</guid>
+      <guid>https://joelromanky.github.io/bio/skills/</guid>
       <description>Coursework 📖      Computer Science 1. Software programming 2. Distributed programming 3. OS, Networks &amp;amp; Security 4. Web programming    Machine Learning 1. Supervised Learning - Linear models - Support Vector Machines - Decisions Trees - Random Forests - Ensemble Learning 2. Unsupervised Learning - Clustering (K-means, Gaussian mixtures) - PCA (Linear, Kernel, Sparse) - Self-Organizing Maps    Deep Learning 1. Neural Networks (ANN, DNN, CNN, RNN, GAN, Auto-Encoders) 2.</description>
     </item>
     
     <item>
       <title>Bio</title>
-      <link>https://jky23.github.io/bio/about/</link>
+      <link>https://joelromanky.github.io/bio/about/</link>
       <pubDate>Sat, 05 Jun 2021 11:21:55 +0200</pubDate>
       
-      <guid>https://jky23.github.io/bio/about/</guid>
+      <guid>https://joelromanky.github.io/bio/about/</guid>
       <description>Hello 👋,
 I am a PhD Candidate in Computer Science from University of Lorraine and an Engineer 🎓 graduated from Toulouse INP-ENSEEIHT in Computer Science and Telecommunications 💻.
 I did my preparatory classes at CPGE Mohamed V in Casablanca, Morocco. I went to a special high school, a military one 👮‍♂️, the Prytanée Militaire de Kadiogo. I got my high school diploma there as well as military training certificates.
-My work interests are Machine Learning, Deep Learning and Statistics.</description>
+My PhD activities are about classification and troubleshooting of Cloud Gaming applications and on low latency applications more broadly.</description>
     </item>
     
   </channel>

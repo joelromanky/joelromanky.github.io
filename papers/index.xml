@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on Joël Roman Ky</title>
-    <link>https://jky23.github.io/papers/</link>
+    <link>https://joelromanky.github.io/papers/</link>
     <description>Recent content in Papers on Joël Roman Ky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate><atom:link href="https://jky23.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate><atom:link href="https://joelromanky.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
-      <link>https://jky23.github.io/papers/papers/</link>
+      <link>https://joelromanky.github.io/papers/papers/</link>
       <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
       
-      <guid>https://jky23.github.io/papers/papers/</guid>
+      <guid>https://joelromanky.github.io/papers/papers/</guid>
       <description>Others manuscripts       📑 Machine Learning Research Intership at Vitesco Technologies
  Subject : Analysis of a fuel cell aging database Supervised by Ludovic LANDRY, Lucian ALECU, Fabrice GAMBOA and Christophe TURPIN Report Slides    📑 Research project in AI at SII Group
  Subject : DROOPI : Human-UAV Interaction Supervised by Sandy VASLON and Coline MOINET Report Team Report Video Demo Slides    📑 R&amp;amp;D Intern in Deep-Learning at INSPI</description>
