@@ -3,12 +3,12 @@ title: "Experience"
 date: 2021-06-05T14:42:46+02:00
 draft: false
 ---
-#### Orange Labs
+#### Orange Innovation
 ---
 
 <img style="float: right;" src="/images/orange.png"  width="80">
 
-October 2021 - Now  
+November 2021 - Now  
 **PhD CIFRE - Research Engineer**  
 *Lannion, France*
 

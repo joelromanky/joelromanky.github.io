@@ -11,7 +11,7 @@ draft: false
 ---
 <img style="float: right;" src="/images/ul.png"  width="150">
 
-November 2021 - Now  
+October 2021 - Now  
 **University of Lorraine**  
 *Nancy, France*
 
@@ -22,7 +22,7 @@ November 2021 - Now
 - **Supervisors** :
   - Raouf BOUTABA, Professor, University of Waterloo
   - Abdelkader LAHMADI, Associate Professor, University of Lorraine
-  - Bertrand MATHIEU, Senior Researcher, Orange Labs
+  - Bertrand MATHIEU, Senior Researcher, Orange Innovation
 
 
 ### **Master of Science, Computer Science**  

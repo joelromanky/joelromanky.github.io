@@ -1,4 +1,4 @@
-baseurl = "https://jky23.github.io"
+baseurl = "https://joelromanky.github.io"
 title = "Joël Roman Ky"
 theme = "hugo-coder"
 languagecode = "en"
@@ -60,20 +60,35 @@ disqusShortname = "yourdiscussshortname"
     icon = "fas fa-envelope-square"
     weight = 2
     url = "mailto:rom23joel@gmail.com"
-#[[params.social]]
-#  name = "Twitter"
-# icon = "fa fa-twitter fa-2x"
-#  weight = 3
-#  url = "https://twitter.com/KyJolRoman2"
+[[params.social]]
+  name = "Twitter"
+ icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/KyJolRoman2"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 4
   url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky/"
 [[params.social]]
+  name = "ResearchGate"
+  icon = "ai ai-researchgate-square"
+  weight = 5
+  url = "https://www.researchgate.net/profile/Joel-Ky"
+[[params.social]]
+  name = "Google Scholar"
+  icon = "ai ai-google-scholar-square"
+  weight = 6
+  url = "#"
+[[params.social]]
+  name = "Orcid"
+  icon = "ai ai-orcid-square"
+  weight = 7
+  url = "#"
+[[params.social]]
   name = "Kaggle"
   icon = "fab fa-kaggle"
-  weight = 5
+  weight = 8
   url = "https://kaggle.com/jrky23"
 
 # Menu links
