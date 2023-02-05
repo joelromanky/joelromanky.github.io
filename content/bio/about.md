@@ -18,3 +18,4 @@ Beyond work, I'm a huge fan of Japanese manga :japanese_ogre: and piano :musical
 - [Skills](../skills/)
 - [Professional Experience](../experience/)
 - [Education](../education/)
+- [What's new](../../news/news/)

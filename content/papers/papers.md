@@ -10,7 +10,7 @@ draft: false
 ## Conference papers
 ---
 
-- :: **Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming**
+- :page_with_curl: **Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming**
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
   - Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet '22), colocated with [18th International Conference on Network and Service Management (CNSM)](http://www.cnsm-conf.org/2022/), Thessaloniki, Greece, October 31 - November 4, 2022
   - [DOI](https://doi.org/10.23919/CNSM55787.2022.9964533) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-03884367/)
@@ -19,7 +19,7 @@ draft: false
 ## Posters
 ---
 
-- ::  **Characterization and troubleshooting of cloud gaming applications on mobile networks**
+- :clipboard:  **Characterization and troubleshooting of cloud gaming applications on mobile networks**
   -  **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
   -  10th TMA PhD School colocated with [Network Traffic Measurement and Analysis Conference  (TMA)](https://tma.ifip.org/2022/), Enschede, The Netherlands, June 27 - June 30, 2022
   -  [Poster](https://hal.science/hal-03878114/)

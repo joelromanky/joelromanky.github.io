@@ -21,7 +21,6 @@ disqusShortname = "yourdiscussshortname"
   description = "My personal website"
   keywords = "Blog,engineer,personal"
   avatarurl = "images/photo.jpeg"
-  #gravatar = "john.doe@example.com"
 
   favicon_32 = "/images/favicon-32x32.png"
   favicon_16 = "/images/favicon-16x16.png"
@@ -42,6 +41,9 @@ disqusShortname = "yourdiscussshortname"
   customCSS = ["css/custom.css"]
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
+
+  maxSeeAlsoItems = 5
+
 
 [taxonomies]
   category = "categories"

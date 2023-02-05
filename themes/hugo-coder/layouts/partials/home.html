@@ -1,4 +1,5 @@
-<section class="container centered">
+<!-- <section class="container centered"> --> 
+<section class="container centered column list">
   <div class="about">
     {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
       {{ with .Site.Params.avatarURL }}
@@ -28,4 +29,21 @@
     </ul>
     {{ end }}
   </div>
+
+  <!--
+  <div class="recent-posts">
+    <h2>What's new ?</h2>
+    <ul>
+    {{- range first .Site.Params.maxSeeAlsoItems .Site.RegularPages -}}
+      <li>
+        <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+        <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{- end -}}
+    </ul>
+  </div>
+  -->
+
+
+
 </section>
