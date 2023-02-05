@@ -51,66 +51,86 @@ disqusShortname = "yourdiscussshortname"
 
 # Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/joelromanky/"
-[[params.social]]
     name = "Email"
     icon = "fas fa-envelope-square"
-    weight = 2
+    weight = 1
     url = "mailto:rom23joel@gmail.com"
 [[params.social]]
-  name = "Twitter"
- icon = "fa fa-twitter fa-2x"
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 2
+  url = "https://github.com/joelromanky/"
+[[params.social]]
+  name = "Google Scholar"
+  icon = "ai ai-google-scholar-square"
   weight = 3
-  url = "https://twitter.com/KyJolRoman2"
+  url = "https://scholar.google.com/citations?user=vKVplHkAAAAJ&hl=fr"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 4
   url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky/"
 [[params.social]]
+  name = "Twitter"
+ icon = "fa fa-twitter fa-2x"
+  weight = 5
+  url = "https://twitter.com/KyJolRoman2"
+[[params.social]]
   name = "ResearchGate"
   icon = "ai ai-researchgate-square"
-  weight = 5
-  url = "https://www.researchgate.net/profile/Joel-Ky"
-[[params.social]]
-  name = "Google Scholar"
-  icon = "ai ai-google-scholar-square"
   weight = 6
-  url = "#"
-[[params.social]]
-  name = "Orcid"
-  icon = "ai ai-orcid-square"
-  weight = 7
-  url = "#"
+  url = "https://www.researchgate.net/profile/Joel-Ky"
 [[params.social]]
   name = "Kaggle"
   icon = "fab fa-kaggle"
-  weight = 8
+  weight = 7
   url = "https://kaggle.com/jrky23"
+#[[params.social]]
+#  name = "Orcid"
+# icon = "ai ai-orcid-square"
+#  weight = 7
+#  url = "#"
+
 
 # Menu links
 
 [[menu.main]]
+  identifier = 'about'
   name = "About"
   weight = 1
   url = "bio/about"
 [[menu.main]]
-  name = "Projects"
+  identifier = 'skills'
+  name = "Skills"
+  weight = 1
+  parent = 'about'
+  url = "bio/skills"
+[[menu.main]]
+  identifier = 'experience'
+  name = "Professional Experience"
+  weight = 1
+  parent = 'about'
+  url = "bio/experience"
+[[menu.main]]
+  identifier = 'education'
+  name = "Education"
+  weight = 1
+  parent = 'about'
+  url = "bio/education"
+[[menu.main]]
+  name = "Publications"
   weight = 2
+  url = "papers/papers"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
   url = "projects/projects"
 [[menu.main]]
   name = "Blog"
-  weight = 3
+  weight = 4
   url  = "blog/blog"
 [[menu.main]]
-  name = "Papers"
-  weight = 4
-  url = "papers/papers"
-[[menu.main]]
-  name = "CV"
+  name = "Resume"
   weight = 5
   url = "files/CV.pdf"
 
