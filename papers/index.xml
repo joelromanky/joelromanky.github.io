@@ -13,7 +13,13 @@
       <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
       
       <guid>https://joelromanky.github.io/papers/papers/</guid>
+<<<<<<< HEAD
       <description>Journal papers      📃 An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions  Xavier Marchal, Philippe Graff, Joël Roman Ky, Thibault Cholez, Stéphane Tuffin, Bertrand Mathieu, Olivier Festor Journal of Network and Systems Management, Special Issue on High-Precision, Predictable and Low-Latency Networking, 2023. Impact Factor: 2.198 (2021) DOI Paper (to appear)    Conference papers      📃 Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming  Joël Roman Ky, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet &amp;lsquo;22), colocated with 18th International Conference on Network and Service Management (CNSM), Thessaloniki, Greece, October 31 - November 4, 2022 DOI Paper    Posters      📋 Characterization and troubleshooting of cloud gaming applications on mobile networks  Joël Roman Ky, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba 10th TMA PhD School colocated with Network Traffic Measurement and Analysis Conference (TMA), Enschede, The Netherlands, June 27 - June 30, 2022 Poster    Others papers       📑 Machine Learning Research Intership at Vitesco Technologies</description>
+=======
+      <description>Others manuscripts       📑 Machine Learning Research Intership at Vitesco Technologies
+ Subject : Analysis of a fuel cell aging database Supervised by Ludovic LANDRY, Lucian ALECU, Fabrice GAMBOA and Christophe TURPIN Report Slides    📑 Research project in AI at SII Group
+ Subject : DROOPI : Human-UAV Interaction Supervised by Sandy VASLON and Coline MOINET Report Team Report Video Demo Slides    📑 R&amp;amp;D Intern in Deep-Learning at INSPI</description>
+>>>>>>> f8518ca537eec19e554243318ecd7c7998259640
     </item>
     
   </channel>
