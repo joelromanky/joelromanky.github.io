@@ -1,11 +1,11 @@
 ---
-title: "News_3"
-date: 2022-06-27
+date: 2022-06-30
 draft: false
 layout: post
 inline: true
 ---
 
-**June 27-30, 2022** : Participation and poster presentation at the 10th TMA PhD School colocated with [Network Traffic Measurement and Analysis Conference (TMA)](https://tma.ifip.org/2022/) at Enschede, The Netherlands.  
+Participation and poster presentation at the 10th TMA PhD School colocated with [Network Traffic Measurement and Analysis Conference (TMA)](https://tma.ifip.org/2022/) at Enschede, The Netherlands from June 27-30, 2022.
+
 **Best Poster award** for the poster presentation *Characterization and troubleshooting of cloud gaming applications on mobile networks*.
 

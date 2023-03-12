@@ -6,6 +6,11 @@ draft: false
 ## Journal papers
 ---
 
+- :page_with_curl: **An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions**
+  - Xavier Marchal, Philippe Graff, **Joël Roman Ky**, Thibault Cholez, Stéphane Tuffin, Bertrand Mathieu, Olivier Festor
+  - [Journal of Network and Systems Management](https://www.springer.com/journal/10922), Special Issue on High-Precision, Predictable and Low-Latency Networking, 2023. **Impact Factor: 2.198 (2021)**
+  - [DOI](https://doi.org/10.1007/s10922-023-09720-9) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](#) (to appear)
+
 
 ## Conference papers
 ---

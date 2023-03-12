@@ -9,14 +9,29 @@
       {{- i18n (lower .Title) | default .Title | title -}}
     </a>
   </h1>
+
+  
   {{ .Content }}
-  <ul>
-    {{ range .Paginator.Pages }}
-    <li>
+  <div class="news">
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless"> 
+
+   
+    {{ range .Paginator.Pages | first 5 }}
+    <!-- <li> {{.Date.Format "January 2, 2006"}}  <br> {{.Content}} </li>
       <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
-      <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-    </li>
+      <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Content }}</a> -->
+      <tr>
+        <th scope="row">{{.Date.Format "January 2, 2006"}} </th>
+        <td>
+          {{.Content}} 
+        </td>
+      </tr>
+      
     {{ end }}
-  </ul>
+
+</table>
+</div>
+</div> 
   {{ partial "pagination.html" . }}
 </section>
