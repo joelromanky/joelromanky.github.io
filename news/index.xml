@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Joël Roman Ky</title>
+    <link>https://joelromanky.github.io/news/</link>
+    <description>Recent content in News on Joël Roman Ky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Feb 2023 18:46:05 +0100</lastBuildDate><atom:link href="https://joelromanky.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_5/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_5/</guid>
+      <description>Participation at the 18th International Conference on Network and Service Management (CNSM) at Thessaloniki, Greece from October 31-November 04, 2022.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_4/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_4/</guid>
+      <description>Our workshop paper Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming got accepted at Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet &amp;lsquo;22) colocated with 18th International Conference on Network and Service Management (CNSM).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_3/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_3/</guid>
+      <description>Participation and poster presentation at the 10th TMA PhD School colocated with Network Traffic Measurement and Analysis Conference (TMA) at Enschede, The Netherlands from June 27-30, 2022.
+Best Poster award for the poster presentation Characterization and troubleshooting of cloud gaming applications on mobile networks.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_2/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_2/</guid>
+      <description>Participation in the days of the GDR RSD at Rennes, France and presentation entitled Protocol for measuring the transmission opportunities of a variable capacity network and its use from April 27-28, 2022.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_1/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_1/</guid>
+      <description>Start a PhD (under CIFRE contract) between Orange Innovation and University of Lorraine.</description>
+    </item>
+    
+  </channel>
+</rss>
