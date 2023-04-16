@@ -33,6 +33,7 @@ New icons can be found in [Font Awesome](https://fontawesome.com).
 
 ### Commit to dev branch
 
+- Render the site on public folder with `hugo`
 - Launch `git add -- . ':!public/'`
 - Launch `git commit -m "Commit message"`
 - Launch `git push origin dev`

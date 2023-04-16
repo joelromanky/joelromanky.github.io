@@ -15,7 +15,8 @@ My PhD activities are about classification and troubleshooting of Cloud Gaming a
 My work interests are Machine Learning, Deep Learning and Statistics. I am strongly interested in Research and Development in these fields.  
 Beyond work, I'm a huge fan of Japanese manga :japanese_ogre: and piano :musical_keyboard:. I also like volley-ball and e-gaming :video_game:.  
 
-- [Skills](../skills/)
+- [News](../../news/)
 - [Professional Experience](../experience/)
 - [Education](../education/)
-- [News](../../news/)
+- [Awards](../awards/)
+- [Skills](../skills/)
