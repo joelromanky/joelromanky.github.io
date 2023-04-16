@@ -24,12 +24,6 @@ To add a new icon, modify the **config.yml** and add a new icon with the `params
 command.  
 New icons can be found in [Font Awesome](https://fontawesome.com).
 
-### Render the site content
-
-- Launch `cd public`
-- Switch to the `master` branch
-- Lauch `hugo`
-- Commit
 
 ### Commit to dev branch
 
@@ -37,3 +31,11 @@ New icons can be found in [Font Awesome](https://fontawesome.com).
 - Launch `git add -- . ':!public/'`
 - Launch `git commit -m "Commit message"`
 - Launch `git push origin dev`
+
+### Render the site content
+
+- Launch `cd public`
+- Switch to the `master` branch
+- Launch `git commit -m "Commit message"`
+- Launch `git push origin master`
+
