@@ -9,47 +9,65 @@
     <lastBuildDate>Sun, 05 Feb 2023 18:46:05 +0100</lastBuildDate><atom:link href="https://joelromanky.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://joelromanky.github.io/news/news_5/</link>
+      <link>https://joelromanky.github.io/news/news_23_02_17/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_23_02_17/</guid>
+      <description>Our journal paper An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions got accepted at Journal of Networking and Systems Management.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_22_11_04/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://joelromanky.github.io/news/news_5/</guid>
+      <guid>https://joelromanky.github.io/news/news_22_11_04/</guid>
       <description>Participation at the 18th International Conference on Network and Service Management (CNSM) at Thessaloniki, Greece from October 31-November 04, 2022.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://joelromanky.github.io/news/news_4/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://joelromanky.github.io/news/news_22_10_28/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://joelromanky.github.io/news/news_4/</guid>
-      <description>Our workshop paper Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming got accepted at Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet &amp;lsquo;22) colocated with 18th International Conference on Network and Service Management (CNSM).</description>
+      <guid>https://joelromanky.github.io/news/news_22_10_28/</guid>
+      <description>Team MetaCD² got awards at the NeurIPS&#39;22 competition track Cross-Domain MetaDL: Any-Way Any-Shot Learning Competition with Novel Datasets from Practical Domains presented in NeurIPS 2022 Competition Track.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://joelromanky.github.io/news/news_3/</link>
+      <link>https://joelromanky.github.io/news/news_22_09_09/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_22_09_09/</guid>
+      <description>Our workshop paper Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming got accepted at Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet &amp;lsquo;22) colocated with 18th International Conference on Network and Service Management (CNSM), Thessaloniki, Greece, October 31 - November 4.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_22_06_30/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://joelromanky.github.io/news/news_3/</guid>
+      <guid>https://joelromanky.github.io/news/news_22_06_30/</guid>
       <description>Participation and poster presentation at the 10th TMA PhD School colocated with Network Traffic Measurement and Analysis Conference (TMA) at Enschede, The Netherlands from June 27-30, 2022.
 Best Poster award for the poster presentation Characterization and troubleshooting of cloud gaming applications on mobile networks.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://joelromanky.github.io/news/news_2/</link>
+      <link>https://joelromanky.github.io/news/news_22_04_28/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://joelromanky.github.io/news/news_2/</guid>
+      <guid>https://joelromanky.github.io/news/news_22_04_28/</guid>
       <description>Participation in the days of the GDR RSD at Rennes, France and presentation entitled Protocol for measuring the transmission opportunities of a variable capacity network and its use from April 27-28, 2022.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://joelromanky.github.io/news/news_1/</link>
+      <link>https://joelromanky.github.io/news/news_21_11_17/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://joelromanky.github.io/news/news_1/</guid>
+      <guid>https://joelromanky.github.io/news/news_21_11_17/</guid>
       <description>Start a PhD (under CIFRE contract) between Orange Innovation and University of Lorraine.</description>
     </item>
     
