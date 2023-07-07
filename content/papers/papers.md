@@ -5,19 +5,30 @@ draft: false
 ---
 ## Journal papers
 ---
+- :page_with_curl: **ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study**
+  - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
+  - [Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), Special Issue on Robust and Reliable Networks of the Future, 2023. **Impact Factor: 5.3 (2023).**
+  - [DOI (to appear)](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper (to appear)](#)
+
 
 - :page_with_curl: **An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions**
   - Xavier Marchal, Philippe Graff, **Joël Roman Ky**, Thibault Cholez, Stéphane Tuffin, Bertrand Mathieu, Olivier Festor
-  - [Journal of Network and Systems Management](https://www.springer.com/journal/10922), Special Issue on High-Precision, Predictable and Low-Latency Networking, 2023. **Impact Factor: 2.198 (2021)**
+  - [Journal of Network and Systems Management](https://www.springer.com/journal/10922), Special Issue on High-Precision, Predictable and Low-Latency Networking, 2023. **Impact Factor: 3.6 (2022).**
   - [DOI](https://doi.org/10.1007/s10922-023-09720-9) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.inria.fr/hal-04050288/)
 
 
 ## Conference papers
 ---
 
+- :page_with_curl: **A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML**
+  - **Joël Roman Ky**, Philippe Graff, Bertrand Mathieu, Thibault Cholez
+  - [28th IEEE Symposium on Computers and Communications (ISCC 2023)](https://2023.ieee-iscc.org/), Tunis, Tunisia, July 9 - July 12, 2023. **Core Rank B (2021).**
+  - [DOI (to appear)](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04130096)
+
+
 - :page_with_curl: **Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming**
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
-  - Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet '22), colocated with [18th International Conference on Network and Service Management (CNSM)](http://www.cnsm-conf.org/2022/), Thessaloniki, Greece, October 31 - November 4, 2022
+  - Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet '22), colocated with [18th International Conference on Network and Service Management (CNSM)](http://www.cnsm-conf.org/2022/), Thessaloniki, Greece, October 31 - November 4, 2022.
   - [DOI](https://doi.org/10.23919/CNSM55787.2022.9964533) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-03884367/)
 
 
@@ -26,8 +37,8 @@ draft: false
 
 - :clipboard:  **Characterization and troubleshooting of cloud gaming applications on mobile networks**
   -  **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
-  -  10th TMA PhD School colocated with [Network Traffic Measurement and Analysis Conference  (TMA)](https://tma.ifip.org/2022/), Enschede, The Netherlands, June 27 - June 30, 2022
-  -  Best poster presentation award
+  -  10th TMA PhD School colocated with [Network Traffic Measurement and Analysis Conference  (TMA)](https://tma.ifip.org/2022/), Enschede, The Netherlands, June 27 - June 30, 2022.
+  -  **Best poster presentation award.**
   -  [Poster](https://hal.science/hal-03878114/)
 
 

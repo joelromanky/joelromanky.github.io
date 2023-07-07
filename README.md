@@ -13,6 +13,7 @@ the repository of the [Hugo Coder theme](https://github.com/luizdepra/hugo-coder
 - Set `draft : false`
 - Commit
 
+
 ### Add new button
 
 To add a new button modify the **config.yml** and add a new button with the `menu.main`
@@ -24,6 +25,9 @@ To add a new icon, modify the **config.yml** and add a new icon with the `params
 command.  
 New icons can be found in [Font Awesome](https://fontawesome.com).
 
+### Render pages locally
+
+- Launch `hugo server`
 
 ### Commit to dev branch
 
