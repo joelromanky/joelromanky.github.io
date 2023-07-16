@@ -53,15 +53,14 @@ Nancy, France
     </item>
     
     <item>
-      <title>Bio</title>
+      <title>About</title>
       <link>https://joelromanky.github.io/bio/about/</link>
       <pubDate>Sat, 05 Jun 2021 11:21:55 +0200</pubDate>
       
       <guid>https://joelromanky.github.io/bio/about/</guid>
-      <description>Hello 👋,
+      <description>Bio Research interests News Professional Experience Education Awards Skills  Bio     Hello 👋,
 I am a PhD Candidate in Computer Science from University of Lorraine and an Engineer 🎓 graduated from Toulouse INP-ENSEEIHT in Computer Science and Telecommunications 💻.
-I did my preparatory classes at CPGE Mohamed V in Casablanca, Morocco. I went to a special high school, a military one 👮‍♂️, the Prytanée Militaire de Kadiogo. I got my high school diploma there as well as military training certificates.
-My PhD activities are about classification and troubleshooting of Cloud Gaming applications and on low latency applications more broadly.</description>
+I did my preparatory classes at CPGE Mohamed V in Casablanca, Morocco. I went to a special high school, a military one 👮‍♂️, the Prytanée Militaire de Kadiogo.</description>
     </item>
     
   </channel>

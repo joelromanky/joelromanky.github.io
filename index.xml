@@ -6,14 +6,23 @@
     <description>Recent content on Joël Roman Ky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joelromanky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joelromanky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_23_07_12/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_23_07_12/</guid>
+      <description>Participation at the 28th IEEE Symposium on Computers and Communications (ISCC 2023) in Gammarth, Tunisia from July 9 - July 12, 2023.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_07_05/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joelromanky.github.io/news/news_23_07_05/</guid>
-      <description>Our journal paper ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study got accepted at Transactions on Network and Service Management.</description>
+      <description>Our journal paper ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study got accepted at IEEE Transactions on Network and Service Management.</description>
     </item>
     
     <item>
@@ -22,7 +31,7 @@
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://joelromanky.github.io/news/news_23_05_19/</guid>
-      <description>Our conference paper A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML got accepted at 28th IEEE Symposium on Computers and Communications (ISCC 2023), Tunis, Tunisia, July 9 - July 12, 2023.</description>
+      <description>Our conference paper A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML got accepted at 28th IEEE Symposium on Computers and Communications (ISCC 2023), Gammarth, Tunisia, July 9 - July 12, 2023.</description>
     </item>
     
     <item>
@@ -49,7 +58,7 @@
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://joelromanky.github.io/news/news_22_11_04/</guid>
-      <description>Participation at the 18th International Conference on Network and Service Management (CNSM 2022) at Thessaloniki, Greece from October 31 - November 04, 2022.</description>
+      <description>Participation at the 18th International Conference on Network and Service Management (CNSM 2022) in Thessaloniki, Greece from October 31 - November 04, 2022.</description>
     </item>
     
     <item>
@@ -76,7 +85,7 @@
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://joelromanky.github.io/news/news_22_06_30/</guid>
-      <description>Participation and poster presentation at the 10th TMA PhD School colocated with Network Traffic Measurement and Analysis Conference (TMA) at Enschede, The Netherlands from June 27-30, 2022.
+      <description>Participation and poster presentation at the 10th TMA PhD School colocated with Network Traffic Measurement and Analysis Conference (TMA) in Enschede, The Netherlands from June 27-30, 2022.
 Best Poster award for the poster presentation Characterization and troubleshooting of cloud gaming applications on mobile networks.</description>
     </item>
     
@@ -104,8 +113,8 @@ Best Poster award for the poster presentation Characterization and troubleshooti
       <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
       
       <guid>https://joelromanky.github.io/papers/papers/</guid>
-      <description>Journal papers       📃 ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study
- Joël Roman Ky, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba Transactions on Network and Service Management, Special Issue on Robust and Reliable Networks of the Future, 2023. Impact Factor: 5.3 (2023). DOI (to appear) Paper (to appear)    📃 An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions</description>
+      <description>Journal papers Conference papers Posters Internship reports  Journal papers       📃 ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study
+ Joël Roman Ky, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba IEEE Transactions on Network and Service Management, Special Issue on Robust and Reliable Networks of the Future, 2023. Impact Factor: 5.3 (2023). DOI Paper Code    📃 An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions</description>
     </item>
     
     <item>
@@ -163,15 +172,14 @@ Nancy, France
     </item>
     
     <item>
-      <title>Bio</title>
+      <title>About</title>
       <link>https://joelromanky.github.io/bio/about/</link>
       <pubDate>Sat, 05 Jun 2021 11:21:55 +0200</pubDate>
       
       <guid>https://joelromanky.github.io/bio/about/</guid>
-      <description>Hello 👋,
+      <description>Bio Research interests News Professional Experience Education Awards Skills  Bio     Hello 👋,
 I am a PhD Candidate in Computer Science from University of Lorraine and an Engineer 🎓 graduated from Toulouse INP-ENSEEIHT in Computer Science and Telecommunications 💻.
-I did my preparatory classes at CPGE Mohamed V in Casablanca, Morocco. I went to a special high school, a military one 👮‍♂️, the Prytanée Militaire de Kadiogo. I got my high school diploma there as well as military training certificates.
-My PhD activities are about classification and troubleshooting of Cloud Gaming applications and on low latency applications more broadly.</description>
+I did my preparatory classes at CPGE Mohamed V in Casablanca, Morocco. I went to a special high school, a military one 👮‍♂️, the Prytanée Militaire de Kadiogo.</description>
     </item>
     
   </channel>
