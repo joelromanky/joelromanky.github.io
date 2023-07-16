@@ -1,7 +1,19 @@
 ---
-title: "Bio"
+title: "About"
 date: 2021-06-05T11:21:55+02:00
 draft: false
+---
+<!-- no toc -->
+- [Bio](#bio)
+- [Research interests](#research-interests)
+- [News](../../news/)
+- [Professional Experience](../experience/)
+- [Education](../education/)
+- [Awards](../awards/)
+- [Skills](../skills/)
+
+
+## Bio
 ---
 
 Hello :wave:,
@@ -17,8 +29,5 @@ Beyond work, I'm a huge fan of Japanese manga :japanese_ogre: and piano :musical
 
 To have more information about my recent activities, work experience or background, check the links below :wink:.
 
-- [News](../../news/)
-- [Professional Experience](../experience/)
-- [Education](../education/)
-- [Awards](../awards/)
-- [Skills](../skills/)
+## Research interests
+---
