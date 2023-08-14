@@ -20,14 +20,15 @@ October 2021 - Now
 - **Laboratory** : [LORIA](https://www.loria.fr/fr/)
 - **Research Team** : [RESIST](https://team.inria.fr/resist/)
 - **Supervisors** :
-  - Raouf BOUTABA, Professor, University of Waterloo
-  - Abdelkader LAHMADI, Associate Professor, University of Lorraine
+  - [Isabelle CHRISMENT](https://members.loria.fr/IChrisment/), Professor, University of Lorraine
+  - [Raouf BOUTABA](https://rboutaba.cs.uwaterloo.ca/index.html), Professor, University of Waterloo
+  - [Abdelkader LAHMADI](https://members.loria.fr/ALahmadi/), Associate Professor, University of Lorraine
   - Bertrand MATHIEU, Senior Researcher, Orange Innovation
 
 
 ### **Master of Science, Computer Science**  
 ---
-<img style="float: right;" src="/images/inp"  width="150">
+<img style="float: right;" src="/images/inp.png"  width="150">
 
 September 2020 - September 2021  
 **Toulouse INP**  
@@ -40,7 +41,7 @@ September 2020 - September 2021
 ### **Engineering Diploma, Computer Science and Telecommunications**  
 ---
 
-<img style="float: right;" src="/images/enseeiht.png"  width="200">
+<img style="float: right;" src="/images/enseeiht.png"  width="100">
 
 September 2018 - September 2021  
 **Toulouse INP-ENSEEIHT**  
