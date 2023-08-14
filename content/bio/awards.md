@@ -22,6 +22,8 @@ draft: false
 ---
  - Best score in **National High School Diploma** (*Baccalauréat Série C* in french) 2016, Ouagadougou, Burkina Faso
  - Bronze Medal in **Panafrican Mathematics Olympiads (PAMO 2015)**, Abuja, Nigeria
+   - <a href="../../files/awards/PAMO.pdf" target="_blank">Certificate</a>
  - Bronze Medal in **Panafrican Science Olympiads (PASO 2015)**, Abuja, Nigeria
+   - <a href="../../files/awards/PASO.pdf" target="_blank">Certificate</a>
  - Best score in **National College Certificate** (*Brevet d'études du premier cycle* in french) 2013, Ouagadougou, Burkina Faso
 

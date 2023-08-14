@@ -27,10 +27,10 @@ October 2021 - Now
 
 ### **Master of Science, Computer Science**  
 ---
-<img style="float: right;" src="/images/ut3.jpg"  width="150">
+<img style="float: right;" src="/images/inp"  width="150">
 
 September 2020 - September 2021  
-**University Toulouse 3 Paul Sabatier**  
+**Toulouse INP**  
 *Toulouse, France*  
 
 - **Specialization** : Performance in Software, Media and Scientific Computing (PSMSC)

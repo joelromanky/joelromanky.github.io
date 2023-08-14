@@ -32,13 +32,13 @@ draft: false
   - **Joël Roman Ky**, Philippe Graff, Bertrand Mathieu, Thibault Cholez
   - [28th IEEE Symposium on Computers and Communications (ISCC 2023)](https://2023.ieee-iscc.org/), Gammarth, Tunisia, July 9 - July 12, 2023. 
   - **Core Rank: B (2021) - Acceptance rate: 37% (over 420 papers)**
-  - [DOI (to appear)](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04130096) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/mosaico-anr/P4_NFV_CG_Detector) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](#)
+  - [DOI (to appear)](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04130096) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/mosaico-anr/P4_NFV_CG_Detector) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_ISCC23.pdf)
 
 
 - :page_with_curl: **Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming**
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
   - Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet '22), colocated with [18th International Conference on Network and Service Management (CNSM)](http://www.cnsm-conf.org/2022/), Thessaloniki, Greece, October 31 - November 4, 2022.
-  - [DOI](https://doi.org/10.23919/CNSM55787.2022.9964533) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-03884367/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/cg-ano-detect-eval) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](#)
+  - [DOI](https://doi.org/10.23919/CNSM55787.2022.9964533) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-03884367/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/cg-ano-detect-eval) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_HiPNet22.pdf)
 
 
 ## Posters
