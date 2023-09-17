@@ -4,7 +4,7 @@ date: 2021-09-06T18:36:50+02:00
 draft: false
 ---
 - [Journal papers](#journal-papers)
-- [Conference papers](#conference-papers)
+- [Conference/Workshop papers](#conferenceworkshop-papers)
 - [Posters](#posters)
 - [Internship reports](#internship-reports)
 
@@ -25,14 +25,19 @@ draft: false
   - [DOI](https://doi.org/10.1007/s10922-023-09720-9) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.inria.fr/hal-04050288/)
 
 
-## Conference papers
+## Conference/Workshop papers
 ---
 
 - :page_with_curl: **A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML**
   - **Joël Roman Ky**, Philippe Graff, Bertrand Mathieu, Thibault Cholez
   - [28th IEEE Symposium on Computers and Communications (ISCC 2023)](https://2023.ieee-iscc.org/), Gammarth, Tunisia, July 9 - July 12, 2023. 
   - **Core Rank: B (2021) - Acceptance rate: 37% (over 420 papers)**
-  - [DOI (to appear)](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04130096) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/mosaico-anr/P4_NFV_CG_Detector) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_ISCC23.pdf)
+  - [DOI](https://doi.org/10.1109/ISCC58397.2023.10217863) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04130096) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/mosaico-anr/P4_NFV_CG_Detector) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_ISCC23.pdf)
+
+- :page_with_curl: **NeurIPS’22 Cross-Domain MetaDL Challenge: Results and lessons learned**
+  - Dustin Carrión-Ojeda, Mahbubul Alam, Sergio Escalera, Ahmed Farahat, Dipanjan Ghosh, Teresa Gonzalez Diaz, Chetan Gupta, Isabelle Guyon, **Joël Roman Ky**, Xian Yeow Lee, Xin Liu, Felix Mohr, Manh Hung Nguyen, Emmanuel Pintelas, Stefan Roth, Simone Schaub-Meyer, Haozhe Sun, Ihsan Ullah, Joaquin Vanschoren, Lasitha Vidyaratne, Jiamin Wu, Xiaotian Yin
+  - [Proceedings of the Machine Learning Research (PMLR) NeurIPS 2022 Competitions Track](https://neurips.cc/virtual/2022/competition/50082), New Orleans (LA), USA, Online, November 28 - December 4, 2022. 
+  - [DOI](https://proceedings.mlr.press/v220/carrion-ojeda22a.html) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://proceedings.mlr.press/v220/carrion-ojeda22a/carrion-ojeda22a.pdf) &nbsp; &nbsp; &nbsp; &nbsp;
 
 
 - :page_with_curl: **Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming**
