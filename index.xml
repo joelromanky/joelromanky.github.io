@@ -6,7 +6,16 @@
     <description>Recent content on Joël Roman Ky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joelromanky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joelromanky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_23_09_05/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_23_09_05/</guid>
+      <description>Our paper NeurIPS’22 Cross-Domain MetaDL Challenge: Results and lessons learned got accepted at Proceedings of Machine Learning Research (PMLR) NeurIPS 2022 Competitions Track.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_07_12/</link>
@@ -113,7 +122,7 @@ Best Poster award for the poster presentation Characterization and troubleshooti
       <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
       
       <guid>https://joelromanky.github.io/papers/papers/</guid>
-      <description>Journal papers Conference papers Posters Internship reports  Journal papers       📃 ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study
+      <description>Journal papers Conference/Workshop papers Posters Internship reports  Journal papers       📃 ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study
  Joël Roman Ky, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba IEEE Transactions on Network and Service Management, Special Issue on Robust and Reliable Networks of the Future, 2023. Impact Factor: 5.3 (2023). DOI Paper Code    📃 An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions</description>
     </item>
     
