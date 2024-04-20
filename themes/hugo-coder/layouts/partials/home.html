@@ -42,7 +42,7 @@
       <div class="table-responsive">
         <table class="table table-sm table-borderless"> 
   
-      {{ range where .Paginator.Pages "Type" "news" | first 3 }}
+      {{ range where .Paginator.Pages "Type" "news" | first 10 }}
       <!-- <li> {{.Date.Format "January 2, 2006"}}  <br> {{.Content}} </li>
         <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
         <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Content }}</a> -->

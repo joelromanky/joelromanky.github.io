@@ -6,6 +6,7 @@ draft: false
 - [Journal papers](#journal-papers)
 - [Conference/Workshop papers](#conferenceworkshop-papers)
 - [Posters](#posters)
+- [Media articles (mentions or interviews)](#media-articles-mentions-or-interviews)
 - [Internship reports](#internship-reports)
 
 
@@ -27,6 +28,11 @@ draft: false
 
 ## Conference/Workshop papers
 ---
+
+- :page_with_curl: **Segment Routing for Chaining Micro-Services at Different Programmable Network Levels**
+  -  Bertrand Mathieu, Olivier Dugeon, **Joël Roman Ky**, Philippe Graff, Thibault Cholez
+  - [ 27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024)](https://www.icin-conference.org/), Paris, France, March 11 - March 14, 2024. 
+  - [DOI](https://doi.org/10.1109/ICIN60470.2024.10494472) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04544951/) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../#)
 
 - :page_with_curl: **A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML**
   - **Joël Roman Ky**, Philippe Graff, Bertrand Mathieu, Thibault Cholez
@@ -54,6 +60,19 @@ draft: false
   -  10th TMA PhD School colocated with [Network Traffic Measurement and Analysis Conference  (TMA)](https://tma.ifip.org/2022/), Enschede, The Netherlands, June 27 - June 30, 2022.
   -  **Best poster presentation award.**
   -  [Poster](https://hal.science/hal-03878114/)
+
+
+## Media articles (mentions or interviews)
+---
+
+- :clipboard: **L4S, a technological base to bring low latency networks to life**
+  - Stéphane Tuffin, **Joël Roman Ky**
+  - [Hello Future](https://hellofuture.orange.com/), February 22 2024.
+  - [Article](https://hellofuture.orange.com/en/l4s-a-technological-base-to-bring-low-latency-networks-to-life/)
+
+- :clipboard: **8 finalistes, 3 lauréats pour « Ma Thèse en 3 minutes » lors des Orange Open Tech Days**
+  - [Futura Sciences](https://www.futura-sciences.com/), December 23 2023.
+  - [Article](https://www.futura-sciences.com/tech/actualites/technologie-8-finalistes-3-laureats-these-3-minutes-lors-orange-open-tech-days-109894/)
 
 
 ## Internship reports
