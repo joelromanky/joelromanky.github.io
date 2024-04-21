@@ -123,14 +123,14 @@ disqusShortname = "yourdiscussshortname"
   name = "Publications"
   weight = 2
   url = "papers/papers"
-[[menu.main]]
-  name = "Projects"
-  weight = 3
-  url = "projects/projects"
-[[menu.main]]
-  name = "Blog"
-  weight = 4
-  url  = "blog/blog"
+#[[menu.main]]
+#  name = "Projects"
+#  weight = 3
+# url = "projects/projects"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 4
+#  url  = "blog/blog"
 [[menu.main]]
   name = "Resume"
   weight = 5
