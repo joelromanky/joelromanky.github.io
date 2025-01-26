@@ -56,7 +56,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     icon = "fas fa-envelope-square"
     weight = 1
-    url = "mailto:rom23joel@gmail.com"
+    url = "mailto:joelroman.ky@gmail.com"
 [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
@@ -73,26 +73,25 @@ disqusShortname = "yourdiscussshortname"
   weight = 4
   url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky/"
 [[params.social]]
-  name = "Twitter"
- icon = "fa fa-twitter fa-2x"
-  weight = 5
-  url = "https://twitter.com/KyJolRoman2"
-[[params.social]]
   name = "ResearchGate"
   icon = "ai ai-researchgate-square"
-  weight = 6
+  weight = 5
   url = "https://www.researchgate.net/profile/Joel-Ky"
 [[params.social]]
-  name = "Kaggle"
-  icon = "fab fa-kaggle"
-  weight = 7
-  url = "https://kaggle.com/jrky23"
+  name = "Orcid"
+ icon = "ai ai-orcid-square"
+  weight = 6
+  url = "https://orcid.org/0000-0001-8228-6847"
+# [[params.social]]
+#  name = "Kaggle"
+#  icon = "fab fa-kaggle"
+#  weight = 8
+#  url = "https://kaggle.com/jrky23"
 #[[params.social]]
-#  name = "Orcid"
-# icon = "ai ai-orcid-square"
-#  weight = 7
-#  url = "#"
-
+#  name = "Twitter"
+# icon = "fa fa-twitter fa-2x"
+#  weight = 5
+#  url = "https://twitter.com/KyJolRoman2"
 
 # Menu links
 

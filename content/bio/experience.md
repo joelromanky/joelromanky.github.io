@@ -3,14 +3,31 @@ title: "Experience"
 date: 2021-06-05T14:42:46+02:00
 draft: false
 ---
+#### INRIA Nancy - Grand Est
+---
+
+<img style="float: right;" src="/images/inria.png"  width="80">
+
+December 2024 - Now  
+**Research Engineer**  
+*Villers-lès-Nancy, France*
+
+- Research engineer involved in PEPR Cloud - SPIREC project on anomaly detection and root cause analysis in Cloud-Edge-IoT continuum.
+
 #### Orange Innovation
 ---
 
 <img style="float: right;" src="/images/orange.png"  width="80">
 
-November 2021 - Now  
+November 2021 - November 2024  
 **PhD CIFRE - Research Engineer**  
 *Lannion, France*
+
+– Data science research project for enhancing the Quality of Experience (QoE)
+for low-latency applications within mobile and WiFi networks.  
+– Literature review on research topics: 5G networks, low-latency applications,
+representation learning, unsupervised learning.  
+– Implementation of novel deep learning techniques for anomaly detection and diagnosis of QoE degradation issues on low-latency applications.
 
 #### Vitesco Technologies
 ---
