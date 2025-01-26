@@ -9,6 +9,24 @@
     <lastBuildDate>Sun, 05 Feb 2023 18:46:05 +0100</lastBuildDate><atom:link href="https://joelromanky.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>https://joelromanky.github.io/news/news_24_12_01/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_24_12_01/</guid>
+      <description>Starting new position as Research Engineer at INRIA Nancy within RESIST team, working in PEPR Cloud - SPIREC project.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_24_10_27/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelromanky.github.io/news/news_24_10_27/</guid>
+      <description>Our conference paper CATS: Contrastive learning for Anomaly detection in Time series got accepted at 2024 IEEE International Conference on Big Data (BigData), Washington DC, USA, December 15 - December 18, 2024.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://joelromanky.github.io/news/news_24_03_11/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       
@@ -158,7 +176,7 @@ Best Poster award for the poster presentation Characterization and troubleshooti
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://joelromanky.github.io/news/news_21_11_17/</guid>
-      <description>Start a PhD (under CIFRE contract) between Orange Innovation and University of Lorraine.</description>
+      <description>Starting a PhD position (under CIFRE contract) between Orange Innovation and University of Lorraine.</description>
     </item>
     
   </channel>
