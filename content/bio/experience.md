@@ -3,12 +3,23 @@ title: "Experience"
 date: 2021-06-05T14:42:46+02:00
 draft: false
 ---
+#### SnT, University of Luxembourg
+---
+
+<img style="float: right;" src="/images/uni_lu.png"  width="120">
+
+April 2025 - now  
+**Postdoctoral Researcher**  
+*Luxembourg, Luxembourg*
+
+- Trustworthy AI researcher
+
 #### INRIA Nancy - Grand Est
 ---
 
 <img style="float: right;" src="/images/inria.png"  width="80">
 
-December 2024 - Now  
+December 2024 - March 2025  
 **Research Engineer**  
 *Villers-lès-Nancy, France*
 

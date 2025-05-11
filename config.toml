@@ -4,7 +4,8 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+[pagination]
+  pagerSize = 10
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
@@ -17,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Joël Roman Ky"
-  info = "PhD Candidate & Research Engineer"
+  info = "Postdoctoral Researcher"
   description = "My personal website"
   keywords = "Blog,engineer,personal"
   avatarurl = "images/photo.jpeg"

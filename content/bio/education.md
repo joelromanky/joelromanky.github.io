@@ -11,7 +11,7 @@ draft: false
 ---
 <img style="float: right;" src="/images/ul.png"  width="150">
 
-October 2021 - Now  
+October 2021 - April 2025  
 **University of Lorraine**  
 *Nancy, France*
 
@@ -20,10 +20,10 @@ October 2021 - Now
 - **Laboratory** : [LORIA](https://www.loria.fr/fr/)
 - **Research Team** : [RESIST](https://team.inria.fr/resist/)
 - **Supervisors** :
-  - [Isabelle CHRISMENT](https://members.loria.fr/IChrisment/), Professor, University of Lorraine
-  - [Raouf BOUTABA](https://rboutaba.cs.uwaterloo.ca/index.html), Professor, University of Waterloo
-  - [Abdelkader LAHMADI](https://members.loria.fr/ALahmadi/), Associate Professor, University of Lorraine
-  - Bertrand MATHIEU, Senior Researcher, Orange Innovation
+  - [Pr Isabelle CHRISMENT](https://members.loria.fr/IChrisment/), Professor, University of Lorraine
+  - [Pr Raouf BOUTABA](https://rboutaba.cs.uwaterloo.ca/index.html), Professor, University of Waterloo
+  - [Dr Abdelkader LAHMADI](https://members.loria.fr/ALahmadi/), Associate Professor, University of Lorraine
+  - Dr Bertrand MATHIEU, Senior Researcher, Orange Innovation
 
 
 ### **Master of Science, Computer Science**  
