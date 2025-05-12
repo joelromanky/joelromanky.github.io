@@ -4,180 +4,156 @@
     <title>News on Joël Roman Ky</title>
     <link>https://joelromanky.github.io/news/</link>
     <description>Recent content in News on Joël Roman Ky</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Feb 2023 18:46:05 +0100</lastBuildDate><atom:link href="https://joelromanky.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joelromanky.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_25_04_29/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joelromanky.github.io/news/news_25_04_29/</guid>
+      <description>&lt;p&gt;Successfully defended my PhD entitled &lt;strong&gt;Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks&lt;/strong&gt; at INRIA Nancy. The manuscript will be soon available and the replay of the defense (in French) can be found &lt;a href=&#34;https://youtube.com/live/X4MV3N0c6Ho&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_25_04_01/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joelromanky.github.io/news/news_25_04_01/</guid>
+      <description>&lt;p&gt;Starting new position as Postdoctoral Researcher at &lt;a href=&#34;https://www.uni.lu/snt-en/&#34;&gt;SnT&lt;/a&gt; within &lt;a href=&#34;https://www.uni.lu/snt-en/research-groups/SerVal/&#34;&gt;SerVal team&lt;/a&gt;, working on Trustworthy AI.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_24_12_01/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_24_12_01/</guid>
-      <description>Starting new position as Research Engineer at INRIA Nancy within RESIST team, working in PEPR Cloud - SPIREC project.</description>
+      <description>&lt;p&gt;Starting new position as Research Engineer at &lt;a href=&#34;https://inria.fr/fr&#34;&gt;INRIA Nancy&lt;/a&gt; within &lt;a href=&#34;https://team.inria.fr/resist/&#34;&gt;RESIST team&lt;/a&gt;, working in &lt;a href=&#34;https://pepr-cloud.fr/fr/le-pepr/&#34;&gt;PEPR Cloud - SPIREC project&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_24_10_27/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_24_10_27/</guid>
-      <description>Our conference paper CATS: Contrastive learning for Anomaly detection in Time series got accepted at 2024 IEEE International Conference on Big Data (BigData), Washington DC, USA, December 15 - December 18, 2024.</description>
+      <description>&lt;p&gt;Our conference paper &lt;strong&gt;CATS: Contrastive learning for Anomaly detection in Time series&lt;/strong&gt; got accepted at &lt;a href=&#34;https://bigdataieee.org/BigData2024&#34;&gt;2024 IEEE International Conference on Big Data (BigData)&lt;/a&gt;, Washington DC, USA, December 15 - December 18, 2024.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_24_03_11/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_24_03_11/</guid>
-      <description>Participation at the 27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024), Paris, France, March 11 - March 14, 2024.</description>
+      <description>&lt;p&gt;Participation at the &lt;a href=&#34;https://www.icin-conference.org/&#34;&gt;27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024)&lt;/a&gt;, Paris, France, March 11 - March 14, 2024.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_24_02_22/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_24_02_22/</guid>
-      <description>We gave an interview to Orange&amp;rsquo;s research blog Hello Future on L4S technology for latency improvement in networks, which was used in our demo at the Orange Open Tech Days 2023. The interview can be found here.</description>
+      <description>&lt;p&gt;We gave an interview to Orange&amp;rsquo;s research blog &lt;strong&gt;Hello Future&lt;/strong&gt; on L4S technology for latency improvement in networks, which was used in our demo at the &lt;strong&gt;Orange Open Tech Days 2023&lt;/strong&gt;. The interview can be found &lt;a href=&#34;https://hellofuture.orange.com/en/l4s-a-technological-base-to-bring-low-latency-networks-to-life/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_12_20/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_12_20/</guid>
-      <description>Our conference paper Segment Routing for Chaining Micro-Services at Different Programmable Network Levels got accepted at 27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024), Paris, France, March 11 - March 14, 2024.</description>
+      <description>&lt;p&gt;Our conference paper &lt;strong&gt;Segment Routing for Chaining Micro-Services at Different Programmable Network Levels&lt;/strong&gt; got accepted at &lt;a href=&#34;https://www.icin-conference.org/&#34;&gt;27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024)&lt;/a&gt;, Paris, France, March 11 - March 14, 2024.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_11_29/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_11_29/</guid>
-      <description>Received the Public Prize at the Orange competition Ma thèse en 3 minutes. See the pitch in this video and blog article about that event.</description>
+      <description>&lt;p&gt;Received the &lt;strong&gt;Public Prize&lt;/strong&gt; at the Orange competition &lt;strong&gt;Ma thèse en 3 minutes&lt;/strong&gt;. See the pitch in this &lt;a href=&#34;https://www.linkedin.com/posts/jo%C3%ABl-roman-ky_opentechdays-lifeatorange-opentechdays-activity-7136273974732181505-2dvc&#34;&gt;video&lt;/a&gt; and &lt;a href=&#34;https://www.futura-sciences.com/tech/actualites/technologie-8-finalistes-3-laureats-these-3-minutes-lors-orange-open-tech-days-109894/&#34;&gt;blog article&lt;/a&gt; about that event.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_11_28/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_11_28/</guid>
-      <description>Our demo, titled Low Latency made easy, summarizing our work on improving latency in low-latency applications, conducted as part of the ANR MOSAICO project, was presented at the Orange Open Tech Days in Orange Innovation Châtillon (France), November 28 - November 30, 2023.&amp;quot;</description>
+      <description>&lt;p&gt;Our demo, titled &lt;strong&gt;Low Latency made easy&lt;/strong&gt;, summarizing our work on improving latency in low-latency applications, conducted as part of the &lt;a href=&#34;https://www.mosaico-project.org/&#34;&gt;ANR MOSAICO&lt;/a&gt; project, was presented at the &lt;a href=&#34;https://open-tech-days.orange.com/&#34;&gt;Orange Open Tech Days&lt;/a&gt; in Orange Innovation Châtillon (France), November 28 - November 30, 2023.&amp;quot;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_09_29/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_09_29/</guid>
-      <description>Participation at the Tools for Causality School in Autrans-Méaudre-en-Vercors, France from September 24 - September 29, 2023.</description>
+      <description>&lt;p&gt;Participation at the &lt;a href=&#34;https://quarter-on-causality.github.io/tools/&#34;&gt;Tools for Causality School&lt;/a&gt; in Autrans-Méaudre-en-Vercors, France from September 24 - September 29, 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_09_05/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_09_05/</guid>
-      <description>Our paper NeurIPS’22 Cross-Domain MetaDL Challenge: Results and lessons learned got accepted at Proceedings of Machine Learning Research (PMLR) NeurIPS 2022 Competitions Track.</description>
+      <description>&lt;p&gt;Our paper &lt;strong&gt;NeurIPS’22 Cross-Domain MetaDL Challenge: Results and lessons learned&lt;/strong&gt; got accepted at &lt;a href=&#34;https://proceedings.mlr.press/v220/&#34;&gt;Proceedings of Machine Learning Research (PMLR) NeurIPS 2022 Competitions Track&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_07_12/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_07_12/</guid>
-      <description>Participation at the 28th IEEE Symposium on Computers and Communications (ISCC 2023) in Gammarth, Tunisia from July 9 - July 12, 2023.</description>
+      <description>&lt;p&gt;Participation at the &lt;a href=&#34;https://2023.ieee-iscc.org/&#34;&gt;28th IEEE Symposium on Computers and Communications (ISCC 2023)&lt;/a&gt; in Gammarth, Tunisia from July 9 - July 12, 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_07_05/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_07_05/</guid>
-      <description>Our journal paper ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study got accepted at IEEE Transactions on Network and Service Management.</description>
+      <description>&lt;p&gt;Our journal paper &lt;strong&gt;ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study&lt;/strong&gt; got accepted at &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028&#34;&gt;IEEE Transactions on Network and Service Management&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_05_19/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_05_19/</guid>
-      <description>Our conference paper A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML got accepted at 28th IEEE Symposium on Computers and Communications (ISCC 2023), Gammarth, Tunisia, July 9 - July 12, 2023.</description>
+      <description>&lt;p&gt;Our conference paper &lt;strong&gt;A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML&lt;/strong&gt; got accepted at &lt;a href=&#34;https://2023.ieee-iscc.org/&#34;&gt;28th IEEE Symposium on Computers and Communications (ISCC 2023)&lt;/a&gt;, Gammarth, Tunisia, July 9 - July 12, 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_23_02_17/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_23_02_17/</guid>
-      <description>Our journal paper An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions got accepted at Journal of Networking and Systems Management.</description>
+      <description>&lt;p&gt;Our journal paper &lt;strong&gt;An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions&lt;/strong&gt; got accepted at &lt;a href=&#34;https://www.springer.com/journal/10922&#34;&gt;Journal of Networking  and Systems Management&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_22_11_04/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_22_11_04/</guid>
-      <description>Participation at the 18th International Conference on Network and Service Management (CNSM 2022) in Thessaloniki, Greece from October 31 - November 04, 2022.</description>
+      <description>&lt;p&gt;Participation at the &lt;a href=&#34;http://www.cnsm-conf.org/2022/&#34;&gt;18th International Conference on Network and Service Management (CNSM 2022)&lt;/a&gt; in Thessaloniki, Greece from October 31 - November 04, 2022.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_22_10_28/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_22_10_28/</guid>
-      <description>Team MetaCD² got awards at the NeurIPS&#39;22 competition track Cross-Domain MetaDL: Any-Way Any-Shot Learning Competition with Novel Datasets from Practical Domains presented in NeurIPS 2022 Competition Track.</description>
+      <description>&lt;p&gt;Team MetaCD² got awards at the NeurIPS&#39;22 competition track &lt;a href=&#34;https://metalearning.chalearn.org/&#34;&gt;Cross-Domain MetaDL: Any-Way Any-Shot Learning Competition with Novel Datasets from Practical Domains presented in NeurIPS 2022 Competition Track&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_22_09_09/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_22_09_09/</guid>
-      <description>Our workshop paper Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming got accepted at Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet &amp;lsquo;22) colocated with 18th International Conference on Network and Service Management (CNSM), Thessaloniki, Greece, October 31 - November 4.</description>
+      <description>&lt;p&gt;Our workshop paper &lt;strong&gt;Assessing Unsupervised Machine Learning solutions for Anomaly Detection in Cloud Gaming&lt;/strong&gt; got accepted at Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet &amp;lsquo;22) colocated with &lt;a href=&#34;http://www.cnsm-conf.org/2022/&#34;&gt;18th International Conference on Network and Service Management (CNSM)&lt;/a&gt;, Thessaloniki, Greece, October 31 - November 4.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_22_06_30/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_22_06_30/</guid>
-      <description>Participation and poster presentation at the 10th TMA PhD School colocated with Network Traffic Measurement and Analysis Conference (TMA) in Enschede, The Netherlands from June 27-30, 2022.
-Best Poster award for the poster presentation Characterization and troubleshooting of cloud gaming applications on mobile networks.</description>
+      <description>&lt;p&gt;Participation and poster presentation at the 10th TMA PhD School colocated with &lt;a href=&#34;https://tma.ifip.org/2022/&#34;&gt;Network Traffic Measurement and Analysis Conference (TMA)&lt;/a&gt; in Enschede, The Netherlands from June 27-30, 2022.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Best Poster award&lt;/strong&gt; for the poster presentation &lt;em&gt;Characterization and troubleshooting of cloud gaming applications on mobile networks&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_22_04_28/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_22_04_28/</guid>
-      <description>Participation in the days of the GDR RSD at Rennes, France and presentation entitled Protocol for measuring the transmission opportunities of a variable capacity network and its use from April 27-28, 2022.</description>
+      <description>&lt;p&gt;Participation in the days of the &lt;a href=&#34;https://gdr-rsd2022.sciencesconf.org/&#34;&gt;GDR RSD&lt;/a&gt; at Rennes, France and presentation entitled &lt;strong&gt;Protocol for measuring the transmission opportunities of a variable capacity network and its use&lt;/strong&gt; from April 27-28, 2022.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_21_11_17/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://joelromanky.github.io/news/news_21_11_17/</guid>
-      <description>Starting a PhD position (under CIFRE contract) between Orange Innovation and University of Lorraine.</description>
+      <description>&lt;p&gt;Starting a PhD position (under CIFRE contract) between &lt;a href=&#34;https://www.orange.com/fr&#34;&gt;Orange Innovation&lt;/a&gt; and &lt;a href=&#34;https://www.univ-lorraine.fr/&#34;&gt;University of Lorraine&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

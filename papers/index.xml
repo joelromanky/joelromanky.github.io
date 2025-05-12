@@ -4,18 +4,16 @@
     <title>Papers on Joël Roman Ky</title>
     <link>https://joelromanky.github.io/papers/</link>
     <description>Recent content in Papers on Joël Roman Ky</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate><atom:link href="https://joelromanky.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 18:36:50 +0200</lastBuildDate>
+    <atom:link href="https://joelromanky.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
       <link>https://joelromanky.github.io/papers/papers/</link>
       <pubDate>Mon, 06 Sep 2021 18:36:50 +0200</pubDate>
-      
       <guid>https://joelromanky.github.io/papers/papers/</guid>
-      <description>Journal papers Conference/Workshop papers Posters Media articles (mentions or interviews) Internship reports  Journal papers       📃 ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study
- Joël Roman Ky, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba IEEE Transactions on Network and Service Management, Special Issue on Robust and Reliable Networks of the Future, 2023. Impact Factor: 5.3 (2023). DOI Paper Code    📃 An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#phd-thesis&#34;&gt;PhD Thesis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#journal-papers&#34;&gt;Journal papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#conferenceworkshop-papers&#34;&gt;Conference/Workshop papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#posters&#34;&gt;Posters&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#media-articles-mentions-or-interviews&#34;&gt;Media articles (mentions or interviews)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#internship-reports&#34;&gt;Internship reports&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;phd-thesis&#34;&gt;&#xA;  PhD Thesis&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#phd-thesis&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;:page_with_curl: &lt;strong&gt;Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Thesis&lt;/a&gt;         &lt;a href=&#34;../../files/presentation/Slides_PhD.pdf&#34;&gt;Slides&lt;/a&gt;          &lt;a href=&#34;https://youtube.com/live/X4MV3N0c6Ho&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;journal-papers&#34;&gt;&#xA;  Journal papers&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#journal-papers&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;:page_with_curl: &lt;strong&gt;ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Joël Roman Ky&lt;/strong&gt;, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028&#34;&gt;IEEE Transactions on Network and Service Management&lt;/a&gt;, Special Issue on Robust and Reliable Networks of the Future, 2023.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact Factor: 5.3 (2023).&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1109/TNSM.2023.3293806&#34;&gt;DOI&lt;/a&gt;         &lt;a href=&#34;https://hal.science/hal-04160235/&#34;&gt;Paper&lt;/a&gt;         &lt;a href=&#34;https://github.com/joelromanky/unsupervised-ml-ad-qoe-deg&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;:page_with_curl: &lt;strong&gt;An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

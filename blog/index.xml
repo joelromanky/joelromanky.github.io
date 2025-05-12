@@ -4,17 +4,16 @@
     <title>Blogs on Joël Roman Ky</title>
     <link>https://joelromanky.github.io/blog/</link>
     <description>Recent content in Blogs on Joël Roman Ky</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jul 2021 14:44:37 +0200</lastBuildDate><atom:link href="https://joelromanky.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2021 14:44:37 +0200</lastBuildDate>
+    <atom:link href="https://joelromanky.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://joelromanky.github.io/blog/blog/</link>
       <pubDate>Sun, 04 Jul 2021 14:44:37 +0200</pubDate>
-      
       <guid>https://joelromanky.github.io/blog/blog/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
