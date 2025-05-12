@@ -28,7 +28,7 @@ I completed my preparatory classes at **CPGE Mohamed V** in **Casablanca, Morocc
 
 My PhD research focused on the **classification and troubleshooting of Cloud Gaming applications**, and more broadly on **low-latency applications**. This work was carried out with the [RESIST](https://team.inria.fr/resist/) research team at the [LORIA](https://www.loria.fr/fr/) lab, and supported by [Orange Innovation](https://www.orange.com/fr) through a [CIFRE contract](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844).  
 
-My interests lie in **Machine Learning**, **Deep Learning**, and **Statistics**. I am deeply motivated by **Research and Development**, especially when it comes to exploring new ideas and solving real-world problems through intelligent systems.  
+My interests lie in **Representation Learning**, **Machine Learning Security and Robustness**, and **Anomaly Detection**. I am deeply motivated by **Research and Development**, especially when it comes to exploring new ideas and solving real-world problems through intelligent systems.  
 
 Beyond work, I'm a huge fan of **Japanese manga** :japanese_ogre: and a passionate **pianist** :musical_keyboard:. I also enjoy **volleyball**, **ping-pong**, **badminton**, and **e-gaming** :video_game:.  
 

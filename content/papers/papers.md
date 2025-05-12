@@ -3,11 +3,18 @@ title: "Papers"
 date: 2021-09-06T18:36:50+02:00
 draft: false
 ---
+- [PhD Thesis](#phd-thesis)
 - [Journal papers](#journal-papers)
 - [Conference/Workshop papers](#conferenceworkshop-papers)
 - [Posters](#posters)
 - [Media articles (mentions or interviews)](#media-articles-mentions-or-interviews)
 - [Internship reports](#internship-reports)
+
+## PhD Thesis
+---
+- :page_with_curl: **Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks**
+  - [Thesis](#) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_PhD.pdf)  &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://youtube.com/live/X4MV3N0c6Ho)
+
 
 
 ## Journal papers
@@ -33,12 +40,12 @@ draft: false
   -  **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
   - [ 2024 IEEE International Conference on Big Data (BigData)](https://bigdataieee.org/BigData2024), Washington DC, USA, December 15 - December 18, 2024. 
   -  **Core Rank: B (2023)**
-  - [DOI](https://doi.org/10.1109/BigData62323.2024.10825476) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04881349) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/cats)  &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../#)
+  - [DOI](https://doi.org/10.1109/BigData62323.2024.10825476) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04881349) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/cats)  &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_BigData24.pdf)
 
 - :page_with_curl: **Segment Routing for Chaining Micro-Services at Different Programmable Network Levels**
   -  Bertrand Mathieu, Olivier Dugeon, **Joël Roman Ky**, Philippe Graff, Thibault Cholez
   - [ 27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024)](https://www.icin-conference.org/2024), Paris, France, March 11 - March 14, 2024. 
-  - [DOI](https://doi.org/10.1109/ICIN60470.2024.10494472) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04544951/) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../#)
+  - [DOI](https://doi.org/10.1109/ICIN60470.2024.10494472) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04544951/) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_ICIN24.pdf)
 
 - :page_with_curl: **A Hybrid P4/NFV Architecture for Cloud Gaming Traffic Detection with Unsupervised ML**
   - **Joël Roman Ky**, Philippe Graff, Bertrand Mathieu, Thibault Cholez

@@ -3,10 +3,10 @@ title: "Experience"
 date: 2021-06-05T14:42:46+02:00
 draft: false
 ---
-#### SnT, University of Luxembourg
+#### SnT Lab, University of Luxembourg
 ---
 
-<img style="float: right;" src="/images/uni_lu.png"  width="120">
+<img style="float: right;" src="/images/uni_lu.png"  width="140">
 
 April 2025 - now  
 **Postdoctoral Researcher**  
