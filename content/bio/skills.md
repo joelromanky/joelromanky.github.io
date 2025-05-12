@@ -4,7 +4,7 @@ date: 2021-06-05T14:42:24+02:00
 draft: false
 ---
 
-## Coursework :open_book:
+## Coursework 📖
 ---
 
 <details>
@@ -16,7 +16,6 @@ draft: false
     4. Web programming
 
 </details>
-
 
 <details>
     <summary>Machine Learning</summary>
@@ -62,7 +61,6 @@ draft: false
 
 </details>
 
-
 <details>
     <summary>Applied Mathematics</summary>
 
@@ -78,7 +76,6 @@ draft: false
 
 </details>
 
-
 <details>
     <summary>High Performance Computing</summary>
 
@@ -90,8 +87,7 @@ draft: false
 
 </details>
 
-
-## Programming languages :computer:
+## Programming languages 💻
 ---
 
 - Python, R
@@ -102,7 +98,7 @@ draft: false
 - Ada, Fortran, OCaml
 - HTML, CSS
 
-## Framework & Software :gear:
+## Framework & Software ⚙️
 ---
 
 - TensorFlow/Keras, PyTorch, Caffe
@@ -113,7 +109,7 @@ draft: false
 - Eclipse, Java EE
 - Github, Bitbucket, Subversion (SVN)
 
-## Languages :ideograph_advantage:
+## Languages 🉐
 ---
 
 - French (native language)
