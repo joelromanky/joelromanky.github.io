@@ -4,17 +4,17 @@ date: 2021-09-06T18:36:50+02:00
 draft: false
 ---
 
-- [PhD Thesis](#phd-thesis)
-- [Journal papers](#journal-papers)
-- [Conference/Workshop papers](#conferenceworkshop-papers)
-- [Posters](#posters)
-- [Media articles (mentions or interviews)](#media-articles-mentions-or-interviews)
-- [Internship reports](#internship-reports)
+- [PhD Thesis](#phd-thesis) 🎓
+- [Journal papers](#journal-papers) 📕
+- [Conference/Workshop papers](#conferenceworkshop-papers) 📄
+- [Posters](#posters) 📋
+- [Media articles (mentions or interviews)](#media-articles-mentions-or-interviews) 📋
+- [Internship reports](#internship-reports) 📑
 
 ## PhD Thesis
 ---
-- 📑 **Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks**
-  - [Thesis](#) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_PhD.pdf)  &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://youtube.com/live/X4MV3N0c6Ho)
+- 🎓 **Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks**
+  - [Thesis](https://theses.hal.science/tel-05077121) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_PhD.pdf)  &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://youtube.com/live/X4MV3N0c6Ho)
 
 ## Journal papers
 ---

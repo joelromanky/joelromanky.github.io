@@ -15,7 +15,7 @@ October 2021 - April 2025
 **University of Lorraine**  
 *Nancy, France*
 
-- **Title** : *Automatic characterization, classification and troubleshooting of cloud gaming applications*
+- **Title** : *Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks*
 - **Doctoral School** : [IAEM - Lorraine](http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/iaem/presentation)
 - **Laboratory** : [LORIA](https://www.loria.fr/fr/)
 - **Research Team** : [RESIST](https://team.inria.fr/resist/)

@@ -12,7 +12,7 @@ April 2025 - now
 **Postdoctoral Researcher**  
 *Luxembourg, Luxembourg*
 
-- Trustworthy AI researcher
+- Trustworthy AI researcher working on a research project with BGL BNP Paribas.
 
 #### INRIA Nancy - Grand Est
 ---
@@ -23,7 +23,7 @@ December 2024 - March 2025
 **Research Engineer**  
 *Villers-lès-Nancy, France*
 
-- Research engineer involved in PEPR Cloud - SPIREC project on anomaly detection and root cause analysis in Cloud-Edge-IoT continuum.
+- Research engineer involved in [PEPR Cloud - SPIREC project](https://pepr-cloud.fr/fr/le-pepr/) on anomaly detection and root cause analysis in Cloud-Edge-IoT continuum.
 
 #### Orange Innovation
 ---
