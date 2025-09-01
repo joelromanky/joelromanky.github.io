@@ -32,6 +32,12 @@ draft: false
 
 ## Conference/Workshop papers
 ---
+- 📄 **RAID: Root cause Anomaly Identification and Diagnosis**
+  - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Minqi Wang, Nicolas Marrot, Raouf Boutaba
+  - [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases - ECML PKDD](https://ecmlpkdd.org/2025/), Porto, Portugal, September 14 - September 19, 2025. 
+  - **Core Rank: A (2023)**
+  - [DOI](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-05219367v1) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/raid)  &nbsp; &nbsp; &nbsp; &nbsp; [Slides](#)
+
 - 📄 **CATS: Contrastive learning for Anomaly detection in Time series**
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
   - [2024 IEEE International Conference on Big Data (BigData)](https://bigdataieee.org/BigData2024), Washington DC, USA, December 15 - December 18, 2024. 
