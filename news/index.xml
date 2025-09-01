@@ -6,14 +6,35 @@
     <description>Recent content in News on Joël Roman Ky</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://joelromanky.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_25_06_13/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://joelromanky.github.io/news/news_25_06_13/</guid>
+      <description>&lt;p&gt;Serving as reviewer for &lt;a href=&#34;https://conf.researchr.org/home/ase-2025&#34;&gt;ASE 2025&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_25_05_27/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://joelromanky.github.io/news/news_25_05_27/</guid>
+      <description>&lt;p&gt;Our conference paper &lt;strong&gt;RAID: Root cause Anomaly Identification and Diagnosis&lt;/strong&gt; got accepted at &lt;a href=&#34;https://ecmlpkdd.org/2025/&#34;&gt;European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases - ECML PKDD&lt;/a&gt;, Porto, Portugal, September 14 - September 19, 2025.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://joelromanky.github.io/news/news_25_04_29/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://joelromanky.github.io/news/news_25_04_29/</guid>
       <description>&lt;p&gt;Successfully defended my PhD entitled &lt;strong&gt;Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks&lt;/strong&gt; at INRIA Nancy. The manuscript is available &lt;a href=&#34;https://theses.hal.science/tel-05077121&#34;&gt;here&lt;/a&gt; and the replay of the defense (in French) can be found &lt;a href=&#34;https://youtube.com/live/X4MV3N0c6Ho&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_25_04_22/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joelromanky.github.io/news/news_25_04_22/</guid>
+      <description>&lt;p&gt;Serving as reviewer for &lt;a href=&#34;https://ecmlpkdd.org/2025/&#34;&gt;ECML PKDD 2025&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -42,6 +63,13 @@
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://joelromanky.github.io/news/news_24_03_11/</guid>
       <description>&lt;p&gt;Participation at the &lt;a href=&#34;https://www.icin-conference.org/&#34;&gt;27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024)&lt;/a&gt;, Paris, France, March 11 - March 14, 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://joelromanky.github.io/news/news_25_09_14/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://joelromanky.github.io/news/news_25_09_14/</guid>
+      <description>&lt;p&gt;Participation at the &lt;a href=&#34;https://ecmlpkdd.org/2025/&#34;&gt;European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases - ECML PKDD&lt;/a&gt;, Porto, Portugal, September 14 - September 19, 2025.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
