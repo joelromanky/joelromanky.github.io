@@ -5,7 +5,7 @@ draft: false
 ---
 <!-- no toc -->
 - [Bio](#bio)
-- [Research interests](#research-interests)
+- [Research summary](../research/)
 - [News](../../news/)
 - [Professional Experience](../experience/)
 - [Education](../education/)
@@ -18,9 +18,9 @@ draft: false
 
 Hello 👋,  
 
-I am a **Postdoctoral Researcher in Trustworthy AI** at the [Université du Luxembourg – Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt-en/), in [SerVal Team](https://www.uni.lu/snt-en/research-groups/serval/) under the supervision of [Dr. Maxime Cordy](https://maxcordy.github.io/). My research focuses on **machine learning robustness**, **explainable AI (XAI)**, and **tabular data**.  
+I am a **Postdoctoral Researcher in Trustworthy AI** at the [Université du Luxembourg – Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt-en/), in [SerVal Team](https://www.uni.lu/snt-en/research-groups/serval/) under the supervision of [Prof. Maxime Cordy](https://maxcordy.github.io/). My research focuses on **machine learning robustness**, **explainable AI (XAI)**, and **tabular data**.  
 
-I earned my **PhD in Computer Science** from the [University of Lorraine](https://www.univ-lorraine.fr/) in collaboration with [Orange Innovation](https://www.orange.com/fr), under the supervision of [Prof. Isabelle Chrisment](https://members.loria.fr/IChrisment/), [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca/index.html), [Dr. Abdelkader Lahmadi](https://members.loria.fr/ALahmadi/), and [Dr. Bertrand Mathieu]().  
+I earned my **PhD in Computer Science** from the [University of Lorraine](https://www.univ-lorraine.fr/) in collaboration with [Orange Innovation](https://www.orange.com/fr), under the supervision of [Prof. Isabelle Chrisment](https://members.loria.fr/IChrisment/), [Prof. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca/index.html), [Prof. Abdelkader Lahmadi](https://members.loria.fr/ALahmadi/), and [Dr. Bertrand Mathieu]().  
 
 🎓 I graduated from [Toulouse INP-ENSEEIHT](https://www.enseeiht.fr/fr/index.html) with an **engineering degree in Computer Science and Telecommunications**, and also obtained a **Master’s degree** from [Toulouse INP](https://www.inp-toulouse.fr/fr/index.html).  
 
@@ -35,12 +35,4 @@ Beyond work, I'm a huge fan of **Japanese manga** 👹 and a passionate **pianis
 To have more information about my recent activities, work experience or background, check the links below 😉.
 
 
-## Research interests
-
-- Trustworthy Artificial Intelligence  
-- Machine Learning Robustness  
-- Explainable AI (XAI)
-- Anomaly Detection  
-- Tabular Data 
-- Low-Latency Applications  
 ---

@@ -6,6 +6,7 @@ draft: false
 
 - [PhD Thesis](#phd-thesis) 🎓
 - [Journal papers](#journal-papers) 📕
+- [Preprints](#preprints) 📝
 - [Conference/Workshop papers](#conferenceworkshop-papers) 📄
 - [Posters](#posters) 📋
 - [Media articles (mentions or interviews)](#media-articles-mentions-or-interviews) 📋
@@ -15,6 +16,12 @@ draft: false
 ---
 - 🎓 **Anomaly detection and root cause diagnosis for low-latency applications in time varying capacity networks**
   - [Thesis](https://theses.hal.science/tel-05077121) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_PhD.pdf)  &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://youtube.com/live/X4MV3N0c6Ho)
+
+## Preprints
+---
+- 📝 **Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability**
+  - **Joël Roman Ky**, Salah Ghamizi, Maxime Cordy
+  - [Paper](https://arxiv.org/pdf/2605.22168/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/serval-uni-lu/xai-vlms-benchmark)
 
 ## Journal papers
 ---
