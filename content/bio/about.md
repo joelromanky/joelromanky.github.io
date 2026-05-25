@@ -5,7 +5,7 @@ draft: false
 ---
 <!-- no toc -->
 - [Bio](#bio)
-- [Research summary](../research/)
+- [Research Summary](../research/)
 - [News](../../news/)
 - [Professional Experience](../experience/)
 - [Education](../education/)
