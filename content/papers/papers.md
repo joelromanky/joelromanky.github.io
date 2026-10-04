@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: "Publications"
 date: 2021-09-06T18:36:50+02:00
 draft: false
 ---
@@ -21,29 +21,22 @@ draft: false
 ---
 - 📝 **Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability**
   - **Joël Roman Ky**, Salah Ghamizi, Maxime Cordy
-  - [Paper](https://arxiv.org/pdf/2605.22168/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/serval-uni-lu/xai-vlms-benchmark)
+  - [Paper](https://arxiv.org/pdf/2605.22168) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/serval-uni-lu/xai-vlms-benchmark)
 
-## Journal papers
----
-- 📕  **ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study**
-  - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
-  - [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), Special Issue on Robust and Reliable Networks of the Future, 2023. 
-  - **Impact Factor: 5.3 (2023).**
-  - [DOI](https://doi.org/10.1109/TNSM.2023.3293806) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04160235/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/unsupervised-ml-ad-qoe-deg)
-
-- 📕 **An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions**
-  - Xavier Marchal, Philippe Graff, **Joël Roman Ky**, Thibault Cholez, Stéphane Tuffin, Bertrand Mathieu, Olivier Festor
-  - [Journal of Network and Systems Management](https://www.springer.com/journal/10922), Special Issue on High-Precision, Predictable and Low-Latency Networking, 2023. 
-  - **Impact Factor: 3.6 (2022).**
-  - [DOI](https://doi.org/10.1007/s10922-023-09720-9) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.inria.fr/hal-04050288/)
 
 ## Conference/Workshop papers
 ---
+- 📄 **Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability**
+  - **Joël Roman Ky**, Salah Ghamizi, Maxime Cordy
+  - Evaluations & Datasets track of [Fortieth Annual Conference on Neural Information Processing Systems, (NeurIPS 2026)](https://neurips.cc/Conferences/2026), Sydney, Australia, December 6 - December 13, 2026.
+  - [DOI](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://arxiv.org/pdf/2605.22168) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/serval-uni-lu/xai-vlms-benchmark) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](#)
+
+
 - 📄 **RAID: Root cause Anomaly Identification and Diagnosis**
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Minqi Wang, Nicolas Marrot, Raouf Boutaba
   - [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases - ECML PKDD](https://ecmlpkdd.org/2025/), Porto, Portugal, September 14 - September 19, 2025. 
   - **Core Rank: A (2023)**
-  - [DOI](#) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-05219367v1) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/raid)  &nbsp; &nbsp; &nbsp; &nbsp; [Slides](#)
+  - [DOI](https://doi.org/10.1007/978-3-662-72243-5_25) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-05219367v1) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/raid)  &nbsp; &nbsp; &nbsp; &nbsp; [Slides](#)
 
 - 📄 **CATS: Contrastive learning for Anomaly detection in Time series**
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
@@ -71,6 +64,21 @@ draft: false
   - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
   - Workshop on High-Precision, Predictable, and Low-Latency Networking (HiPNet '22), colocated with [18th International Conference on Network and Service Management (CNSM)](http://www.cnsm-conf.org/2022/), Thessaloniki, Greece, October 31 - November 4, 2022.
   - [DOI](https://doi.org/10.23919/CNSM55787.2022.9964533) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-03884367/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/cg-ano-detect-eval) &nbsp; &nbsp; &nbsp; &nbsp; [Slides](../../files/presentation/Slides_HiPNet22.pdf)
+
+
+## Journal papers
+---
+- 📕  **ML Models for Detecting QoE Degradation in Low-Latency Applications: A Cloud-Gaming Case Study**
+  - **Joël Roman Ky**, Bertrand Mathieu, Abdelkader Lahmadi, Raouf Boutaba
+  - [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), Special Issue on Robust and Reliable Networks of the Future, 2023. 
+  - **Impact Factor: 5.3 (2023).**
+  - [DOI](https://doi.org/10.1109/TNSM.2023.3293806) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.science/hal-04160235/) &nbsp; &nbsp; &nbsp; &nbsp; [Code](https://github.com/joelromanky/unsupervised-ml-ad-qoe-deg)
+
+- 📕 **An Analysis of Cloud Gaming Platforms Behaviour Under Synthetic Network Constraints and Real Cellular Networks Conditions**
+  - Xavier Marchal, Philippe Graff, **Joël Roman Ky**, Thibault Cholez, Stéphane Tuffin, Bertrand Mathieu, Olivier Festor
+  - [Journal of Network and Systems Management](https://www.springer.com/journal/10922), Special Issue on High-Precision, Predictable and Low-Latency Networking, 2023. 
+  - **Impact Factor: 3.6 (2022).**
+  - [DOI](https://doi.org/10.1007/s10922-023-09720-9) &nbsp; &nbsp; &nbsp; &nbsp; [Paper](https://hal.inria.fr/hal-04050288/)
 
 ## Posters
 ---

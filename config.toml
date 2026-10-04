@@ -57,7 +57,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     icon = "fas fa-envelope-square"
     weight = 1
-    url = "mailto:joelroman.ky@gmail.com"
+    url = "mailto:joel.ky@uni.lu"
 [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
@@ -74,15 +74,25 @@ disqusShortname = "yourdiscussshortname"
   weight = 4
   url = "https://www.linkedin.com/in/jo%C3%ABl-roman-ky/"
 [[params.social]]
-  name = "ResearchGate"
-  icon = "ai ai-researchgate-square"
+  name = "DBLP"
+  icon = "ai ai-dblp-square"
   weight = 5
-  url = "https://www.researchgate.net/profile/Joel-Ky"
+  url = "https://dblp.org/pid/335/2140.html"
 [[params.social]]
   name = "Orcid"
  icon = "ai ai-orcid-square"
   weight = 6
   url = "https://orcid.org/0000-0001-8228-6847"
+[[params.social]]
+  name = "HAL"
+  icon = "ai ai-hal-square"
+  weight = 7
+  url = "https://cv.hal.science/joel-roman-ky"
+[[params.social]]
+  name = "ResearchGate"
+  icon = "ai ai-researchgate-square"
+  weight = 8
+  url = "https://www.researchgate.net/profile/Joel-Ky"
 # [[params.social]]
 #  name = "Kaggle"
 #  icon = "fab fa-kaggle"
@@ -102,35 +112,20 @@ disqusShortname = "yourdiscussshortname"
   weight = 1
   url = "bio/about"
 [[menu.main]]
-  identifier = 'skills'
-  name = "Skills"
-  weight = 1
-  parent = 'about'
-  url = "bio/skills"
-[[menu.main]]
   identifier = 'experience'
-  name = "Professional Experience"
-  weight = 1
-  parent = 'about'
+  name = "Experience"
+  weight = 2
+  # parent = 'about'
   url = "bio/experience"
 [[menu.main]]
-  identifier = 'education'
-  name = "Education"
-  weight = 1
-  parent = 'about'
-  url = "bio/education"
+  identifier = 'research'
+  name = "Research"
+  weight = 3
+  url = "bio/research"
 [[menu.main]]
   name = "Publications"
-  weight = 2
+  weight = 4
   url = "papers/papers"
-#[[menu.main]]
-#  name = "Projects"
-#  weight = 3
-# url = "projects/projects"
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 4
-#  url  = "blog/blog"
 [[menu.main]]
   name = "Resume"
   weight = 5
